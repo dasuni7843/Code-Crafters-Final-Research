@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #1b4f72;
+  --color-accent: #27ae60;
+  --color-warm: #e67e22;
+  --color-danger: #c0392b;
+  --color-surface: #ffffff;
+  --color-bg: #f0f4f8;
+  --color-card: #ffffff;
+  --color-border: #dde3ea;
+  --color-text: #1a2332;
+  --color-muted: #5a6a7a;
+}
+
+.dark {
+  --color-surface: #0d1b2a;
+  --color-bg: #07111c;
+  --color-card: #112237;
+  --color-border: #1e3a5f;
+  --color-text: #e8f0f8;
+  --color-muted: #7b9bb5;
+  --color-primary: #2e86c1;
+  --color-accent: #2ecc71;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Semantic utility classes bound to CSS variables */
+.bg-app { background-color: var(--color-bg); }
+.bg-card { background-color: var(--color-card); }
+.bg-surface { background-color: var(--color-surface); }
+.text-body { color: var(--color-text); }
+.text-muted { color: var(--color-muted); }
+.border-app { border-color: var(--color-border); }
+.bg-primary { background-color: var(--color-primary); }
+.text-primary { color: var(--color-primary); }
+
+.card {
+  background-color: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 1rem;
+}
+
+/* Signature animated gradient for destination cards on hover */
+.gradient-hover {
+  position: relative;
+  background: linear-gradient(120deg, #1b4f72, #1b4f72);
+  background-size: 200% 200%;
+  transition: background 0.5s ease;
+}
+.gradient-hover:hover {
+  background: linear-gradient(120deg, #1b4f72, #27ae60, #2e86c1);
+  background-size: 200% 200%;
+  animation: gradient 4s ease infinite;
+}
+@keyframes gradient {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* Thin scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 6px;
+}
+
+.no-scrollbar::-webkit-scrollbar { display: none; }

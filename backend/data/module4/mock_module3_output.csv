@@ -1,0 +1,1681 @@
+destination,year,month,crowd_risk_level,crowd_score_0_100,crowd_ratio,social_media_sentiment,trending,is_off_season,event_note,recommendation_action,model_used
+Sigiriya,2024,1,MEDIUM,59.4,0.5944,0.642,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,1,HIGH,74.3,0.7433,0.911,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,1,HIGH,81.0,0.8104,0.806,1,0,Galle Literary Festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,1,MEDIUM,48.6,0.4855,0.696,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,1,MEDIUM,46.9,0.4687,0.683,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,1,HIGH,80.1,0.801,0.792,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,1,HIGH,81.0,0.8097,0.705,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,1,MEDIUM,68.5,0.6853,0.616,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,1,LOW,14.2,0.1424,0.469,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,1,LOW,23.9,0.2386,0.365,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,1,LOW,37.6,0.3756,0.436,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,1,LOW,30.1,0.301,0.365,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,1,MEDIUM,46.7,0.4669,0.657,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,1,MEDIUM,51.8,0.5183,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,1,MEDIUM,50.4,0.5044,0.632,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,1,HIGH,89.2,0.8923,0.931,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,1,MEDIUM,58.0,0.5796,0.587,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,1,LOW,36.4,0.3644,0.377,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,1,MEDIUM,65.7,0.6568,0.532,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,1,MEDIUM,65.4,0.6535,0.662,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2024,2,MEDIUM,62.2,0.6222,0.66,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,2,HIGH,74.6,0.7457,0.802,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,2,HIGH,74.1,0.7409,0.777,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,2,MEDIUM,41.0,0.4103,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,2,MEDIUM,50.9,0.5086,0.544,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,2,HIGH,86.4,0.8638,0.797,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,2,HIGH,79.2,0.7922,0.857,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,2,HIGH,82.0,0.8202,0.876,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,2,LOW,17.2,0.1724,0.431,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,2,LOW,30.5,0.305,0.509,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,2,LOW,29.3,0.2928,0.439,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,2,LOW,24.6,0.2456,0.378,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,2,MEDIUM,52.0,0.5203,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,2,MEDIUM,57.8,0.5779,0.71,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,2,MEDIUM,50.9,0.509,0.611,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,2,HIGH,86.5,0.8654,0.912,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,2,MEDIUM,61.9,0.6189,0.744,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,2,LOW,33.0,0.3302,0.499,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,2,MEDIUM,62.3,0.6227,0.632,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,2,HIGH,72.3,0.7233,0.701,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2024,3,MEDIUM,61.3,0.6132,0.671,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,3,HIGH,75.2,0.7517,0.789,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,3,MEDIUM,69.1,0.6909,0.62,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,3,MEDIUM,50.2,0.502,0.67,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,3,MEDIUM,63.3,0.6328,0.681,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,3,HIGH,78.4,0.7838,0.878,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,3,HIGH,72.4,0.7237,0.8,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,3,MEDIUM,68.6,0.6863,0.562,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,3,LOW,30.4,0.3044,0.466,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,3,MEDIUM,45.0,0.4501,0.636,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,3,LOW,35.3,0.3531,0.425,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,3,LOW,31.5,0.3145,0.402,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,3,MEDIUM,51.6,0.5158,0.674,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,3,MEDIUM,56.9,0.569,0.66,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,3,MEDIUM,48.6,0.4862,0.646,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,3,MEDIUM,63.3,0.6328,0.648,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,3,MEDIUM,55.2,0.5517,0.798,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,3,MEDIUM,41.6,0.416,0.668,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,3,MEDIUM,59.9,0.599,0.58,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,3,MEDIUM,68.7,0.6871,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2024,4,MEDIUM,57.2,0.5718,0.595,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,4,MEDIUM,66.3,0.6635,0.566,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,4,MEDIUM,61.8,0.6176,0.781,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,4,MEDIUM,52.3,0.5228,0.616,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,4,HIGH,95.5,0.9547,0.79,1,0,April Season - New Year festivities,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,4,MEDIUM,55.3,0.5535,0.654,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,4,MEDIUM,58.7,0.5871,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,4,MEDIUM,55.3,0.5533,0.743,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,4,MEDIUM,59.6,0.5957,0.631,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,4,MEDIUM,67.6,0.6764,0.576,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,4,MEDIUM,55.6,0.5563,0.728,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,4,MEDIUM,46.0,0.4598,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,4,MEDIUM,50.6,0.5065,0.697,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,4,MEDIUM,45.0,0.4503,0.571,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,4,MEDIUM,56.4,0.5644,0.668,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,4,MEDIUM,65.8,0.6581,0.671,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,4,MEDIUM,50.2,0.5023,0.664,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,4,MEDIUM,45.7,0.4566,0.607,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,4,MEDIUM,63.4,0.6341,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,4,MEDIUM,51.7,0.5172,0.689,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2024,5,LOW,33.3,0.3329,0.497,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,5,MEDIUM,42.3,0.4232,0.601,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,5,LOW,36.7,0.3669,0.475,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,5,MEDIUM,52.1,0.5206,0.764,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,5,MEDIUM,54.3,0.5433,0.605,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,5,LOW,28.7,0.2867,0.401,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,5,LOW,31.9,0.3188,0.47,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,5,LOW,30.4,0.3042,0.5,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,5,HIGH,78.1,0.7805,0.907,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,5,HIGH,77.0,0.7697,0.95,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,5,HIGH,84.6,0.8457,0.769,1,0,Vesak Poya pilgrimage surge,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,5,MEDIUM,64.4,0.6436,0.679,0,0,Vesak Poya pilgrimage,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,5,MEDIUM,54.4,0.5439,0.693,0,0,Vesak at the Golden Cave Temple,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,5,MEDIUM,51.2,0.5118,0.646,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,5,MEDIUM,43.1,0.4309,0.559,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,5,MEDIUM,58.7,0.5866,0.701,0,0,Season closes at Vesak Poya,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,5,MEDIUM,42.4,0.4245,0.575,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,5,MEDIUM,52.5,0.5245,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,5,MEDIUM,49.7,0.497,0.659,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,5,LOW,35.1,0.351,0.381,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2024,6,LOW,32.6,0.3257,0.484,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,6,LOW,36.9,0.369,0.513,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,6,LOW,27.9,0.2793,0.394,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,6,MEDIUM,53.3,0.5334,0.681,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,6,MEDIUM,41.0,0.4103,0.881,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,6,LOW,25.7,0.2571,0.518,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,6,LOW,29.3,0.2934,0.489,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,6,LOW,25.6,0.2559,0.496,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,6,HIGH,81.7,0.8172,0.806,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,6,HIGH,78.1,0.7806,0.825,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,6,HIGH,100.0,1.0,0.708,1,0,Poson Poya - peak pilgrimage of the year,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,6,HIGH,77.6,0.7757,0.723,0,0,Poson Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,6,MEDIUM,46.9,0.4687,0.715,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,6,HIGH,72.2,0.7223,0.755,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,6,MEDIUM,40.5,0.405,0.691,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,6,LOW,4.8,0.0482,0.463,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,6,LOW,35.1,0.3508,0.411,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,6,MEDIUM,60.9,0.609,0.688,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,6,MEDIUM,44.9,0.4494,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,6,LOW,30.9,0.3094,0.501,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2024,7,MEDIUM,49.9,0.4994,0.643,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,7,MEDIUM,59.5,0.5946,0.702,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,7,MEDIUM,42.3,0.423,0.63,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,7,HIGH,85.9,0.8591,0.781,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,7,MEDIUM,56.6,0.5659,0.674,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,7,LOW,32.8,0.3279,0.505,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,7,MEDIUM,44.2,0.4424,0.712,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,7,LOW,35.1,0.3511,0.421,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,7,HIGH,93.6,0.9357,0.778,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,7,HIGH,83.8,0.8382,0.866,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,7,MEDIUM,66.8,0.6676,0.646,0,0,Esala season pilgrimage,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,7,MEDIUM,46.1,0.4609,0.589,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,7,MEDIUM,44.4,0.4443,0.575,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,7,HIGH,84.4,0.8437,0.734,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,7,MEDIUM,48.9,0.489,0.658,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,7,LOW,5.4,0.0536,0.364,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,7,MEDIUM,50.8,0.5079,0.651,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,7,HIGH,74.2,0.7417,0.848,1,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,7,MEDIUM,55.5,0.5555,0.614,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,7,MEDIUM,42.1,0.4215,0.627,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2024,8,MEDIUM,55.3,0.5531,0.69,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,8,MEDIUM,64.8,0.6476,0.576,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,8,MEDIUM,53.1,0.5312,0.533,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,8,HIGH,91.3,0.913,0.855,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,8,MEDIUM,55.8,0.5577,0.613,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,8,LOW,37.6,0.376,0.42,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,8,MEDIUM,40.8,0.4076,0.701,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,8,MEDIUM,40.7,0.4071,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,8,HIGH,88.8,0.8882,0.838,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,8,HIGH,81.2,0.8117,0.858,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,8,MEDIUM,65.2,0.6518,0.616,0,0,Esala season pilgrimage,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,8,MEDIUM,60.2,0.6017,0.687,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,8,MEDIUM,47.9,0.4795,0.657,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,8,HIGH,85.1,0.8511,0.785,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,8,MEDIUM,53.4,0.5342,0.638,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,8,LOW,5.9,0.0593,0.516,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,8,MEDIUM,54.1,0.5415,0.699,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,8,HIGH,74.6,0.7457,0.821,1,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,8,MEDIUM,57.9,0.5791,0.631,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,8,MEDIUM,45.7,0.4573,0.642,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2024,9,LOW,38.2,0.3818,0.486,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,9,MEDIUM,40.3,0.4028,0.776,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,9,LOW,36.1,0.3609,0.377,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,9,MEDIUM,50.8,0.5078,0.697,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,9,LOW,39.2,0.3919,0.488,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,9,LOW,32.0,0.3198,0.396,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,9,LOW,35.1,0.3513,0.409,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,9,LOW,33.6,0.3356,0.441,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,9,MEDIUM,69.0,0.6903,0.631,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,9,MEDIUM,63.3,0.6328,0.616,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,9,LOW,30.7,0.3068,0.465,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,9,LOW,28.3,0.2834,0.42,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,9,LOW,34.2,0.3418,0.464,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,9,MEDIUM,64.9,0.6493,0.566,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,9,LOW,36.6,0.3663,0.437,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,9,LOW,6.1,0.0609,0.539,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,9,LOW,39.6,0.3963,0.44,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,9,MEDIUM,45.0,0.4496,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,9,MEDIUM,52.0,0.5195,0.633,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,9,LOW,38.6,0.3861,0.4,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2024,10,MEDIUM,41.0,0.4104,0.742,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,10,MEDIUM,44.8,0.4476,0.674,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,10,MEDIUM,49.7,0.4966,0.626,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,10,MEDIUM,45.5,0.455,0.651,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,10,MEDIUM,40.2,0.402,0.604,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,10,MEDIUM,42.1,0.4205,0.68,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,10,MEDIUM,48.3,0.4827,0.708,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,10,MEDIUM,46.5,0.4652,0.604,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,10,MEDIUM,57.4,0.574,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,10,MEDIUM,44.4,0.4438,0.602,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,10,LOW,28.7,0.2874,0.414,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,10,LOW,23.2,0.2324,0.418,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,10,LOW,36.6,0.3656,0.459,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,10,LOW,20.3,0.2034,0.563,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,10,MEDIUM,41.9,0.419,0.615,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,10,LOW,7.6,0.0764,0.48,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,10,LOW,37.4,0.3736,0.56,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,10,MEDIUM,40.2,0.4024,0.622,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,10,MEDIUM,49.4,0.4937,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,10,MEDIUM,44.7,0.4474,0.724,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2024,11,MEDIUM,47.9,0.4785,0.614,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,11,MEDIUM,55.0,0.5501,0.653,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,11,MEDIUM,63.5,0.6354,0.687,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,11,MEDIUM,47.3,0.4733,0.641,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,11,MEDIUM,45.3,0.4527,0.681,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,11,HIGH,72.5,0.7249,0.753,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,11,MEDIUM,62.8,0.6278,0.727,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,11,MEDIUM,63.0,0.6303,0.605,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,11,LOW,21.6,0.2155,0.457,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,11,LOW,25.4,0.2542,0.454,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,11,MEDIUM,44.1,0.4412,0.755,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,11,LOW,33.6,0.3358,0.508,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,11,MEDIUM,46.5,0.4645,0.732,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,11,MEDIUM,42.8,0.4283,0.691,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,11,MEDIUM,47.4,0.4738,0.544,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,11,LOW,14.1,0.1411,0.328,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,11,MEDIUM,44.4,0.4439,0.693,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,11,LOW,37.6,0.3763,0.454,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,11,MEDIUM,67.0,0.6705,0.567,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,11,MEDIUM,53.1,0.5306,0.647,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2024,12,MEDIUM,66.2,0.6625,0.648,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2024,12,MEDIUM,69.9,0.6994,0.645,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2024,12,HIGH,79.5,0.7946,0.86,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2024,12,MEDIUM,63.1,0.6314,0.594,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2024,12,MEDIUM,56.5,0.5651,0.586,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2024,12,HIGH,84.7,0.8473,0.877,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2024,12,HIGH,79.9,0.7986,0.85,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2024,12,HIGH,77.9,0.7788,0.772,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2024,12,LOW,13.9,0.1393,0.388,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2024,12,LOW,21.4,0.2139,0.378,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2024,12,MEDIUM,49.4,0.4942,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2024,12,MEDIUM,40.5,0.4053,0.663,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2024,12,MEDIUM,54.7,0.5469,0.637,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2024,12,MEDIUM,59.8,0.5978,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2024,12,MEDIUM,53.5,0.5354,0.615,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2024,12,HIGH,86.8,0.8679,0.682,1,0,Pilgrimage season opens (Unduvap Poya),redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2024,12,MEDIUM,50.8,0.5083,0.732,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2024,12,MEDIUM,45.5,0.4545,0.635,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2024,12,HIGH,74.1,0.7408,0.839,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2024,12,HIGH,83.1,0.8308,0.887,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,1,MEDIUM,57.6,0.5763,0.593,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,1,MEDIUM,66.2,0.6622,0.662,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,1,HIGH,78.9,0.789,0.735,0,0,Galle Literary Festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,1,MEDIUM,43.5,0.4355,0.585,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,1,MEDIUM,52.0,0.5205,0.703,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,1,HIGH,82.0,0.8197,0.909,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,1,HIGH,80.3,0.8031,0.768,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,1,HIGH,80.7,0.8071,0.852,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,1,LOW,14.2,0.1422,0.439,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,1,LOW,23.9,0.2391,0.367,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,1,LOW,36.6,0.3662,0.565,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,1,LOW,27.9,0.279,0.484,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,1,MEDIUM,46.4,0.4644,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,1,MEDIUM,53.4,0.5337,0.598,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,1,MEDIUM,52.1,0.5213,0.6,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,1,HIGH,93.2,0.9324,0.817,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,1,MEDIUM,57.3,0.5731,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,1,LOW,34.0,0.3399,0.495,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,1,MEDIUM,66.6,0.6663,0.591,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,1,HIGH,70.3,0.7035,0.865,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,2,MEDIUM,55.0,0.5499,0.683,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,2,HIGH,72.5,0.7252,0.854,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,2,HIGH,76.9,0.7695,0.712,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,2,LOW,38.6,0.3858,0.453,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,2,MEDIUM,50.6,0.5065,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,2,HIGH,87.7,0.8771,0.72,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,2,HIGH,81.7,0.8173,0.747,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,2,HIGH,75.5,0.7546,0.823,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,2,LOW,17.2,0.1723,0.427,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,2,LOW,31.5,0.3151,0.415,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,2,LOW,31.3,0.3125,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,2,LOW,26.7,0.2669,0.536,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,2,MEDIUM,43.8,0.4382,0.602,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,2,MEDIUM,59.7,0.5967,0.638,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,2,MEDIUM,50.9,0.5093,0.614,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,2,HIGH,85.4,0.8537,0.811,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,2,MEDIUM,65.6,0.6562,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,2,LOW,38.6,0.3864,0.425,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,2,MEDIUM,60.5,0.6049,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,2,HIGH,73.4,0.7342,0.795,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,3,MEDIUM,62.9,0.629,0.775,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,3,HIGH,73.0,0.7305,0.8,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,3,HIGH,76.3,0.7632,0.796,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,3,MEDIUM,43.1,0.4311,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,3,MEDIUM,58.9,0.5892,0.629,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,3,HIGH,78.1,0.7807,0.921,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,3,HIGH,76.2,0.7623,0.807,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,3,HIGH,72.9,0.729,0.687,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,3,LOW,30.4,0.3035,0.496,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,3,MEDIUM,41.7,0.4167,0.719,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,3,LOW,38.6,0.3864,0.425,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,3,LOW,33.0,0.3301,0.586,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,3,MEDIUM,52.5,0.5247,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,3,MEDIUM,50.8,0.5081,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,3,MEDIUM,50.0,0.4999,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,3,HIGH,70.3,0.7025,0.791,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,3,MEDIUM,56.3,0.5632,0.67,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,3,MEDIUM,44.2,0.4418,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,3,MEDIUM,59.2,0.5919,0.591,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,3,MEDIUM,63.6,0.6356,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,4,MEDIUM,57.1,0.5708,0.595,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,4,MEDIUM,64.7,0.647,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,4,MEDIUM,61.2,0.6124,0.763,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,4,MEDIUM,52.9,0.5287,0.575,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,4,HIGH,86.6,0.8655,0.91,1,0,April Season - New Year festivities,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,4,MEDIUM,62.0,0.6196,0.647,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,4,MEDIUM,62.9,0.6287,0.582,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,4,MEDIUM,65.1,0.6509,0.658,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,4,MEDIUM,62.3,0.6234,0.694,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,4,MEDIUM,66.6,0.6656,0.663,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,4,MEDIUM,52.8,0.5283,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,4,MEDIUM,54.7,0.5471,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,4,MEDIUM,54.0,0.5398,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,4,MEDIUM,45.6,0.4562,0.642,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,4,MEDIUM,55.2,0.5515,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,4,MEDIUM,59.5,0.595,0.742,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,4,MEDIUM,51.6,0.5159,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,4,MEDIUM,42.7,0.4272,0.551,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,4,MEDIUM,60.4,0.6039,0.654,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,4,MEDIUM,51.5,0.5145,0.572,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,5,LOW,34.4,0.3441,0.55,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,5,LOW,39.5,0.3948,0.36,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,5,LOW,34.6,0.3457,0.434,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,5,MEDIUM,43.3,0.4326,0.647,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,5,MEDIUM,54.4,0.5436,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,5,LOW,32.8,0.3277,0.518,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,5,LOW,31.6,0.3157,0.384,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,5,LOW,33.9,0.3386,0.454,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,5,HIGH,78.1,0.7805,0.819,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,5,HIGH,78.8,0.7877,0.811,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,5,HIGH,79.6,0.7965,0.787,1,0,Vesak Poya pilgrimage surge,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,5,MEDIUM,67.9,0.6789,0.617,0,0,Vesak Poya pilgrimage,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,5,MEDIUM,53.0,0.5304,0.656,0,0,Vesak at the Golden Cave Temple,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,5,MEDIUM,49.4,0.4936,0.74,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,5,LOW,39.0,0.3904,0.515,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,5,MEDIUM,63.7,0.6374,0.526,0,0,Season closes at Vesak Poya,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,5,MEDIUM,41.3,0.4128,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,5,MEDIUM,48.3,0.4834,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,5,MEDIUM,49.1,0.4911,0.755,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,5,LOW,36.6,0.3664,0.526,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,6,LOW,33.2,0.3315,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,6,LOW,34.1,0.3408,0.479,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,6,LOW,28.2,0.2817,0.493,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,6,MEDIUM,51.4,0.5138,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,6,MEDIUM,41.4,0.4142,0.677,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,6,LOW,24.5,0.2455,0.52,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,6,LOW,26.5,0.2649,0.487,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,6,LOW,26.8,0.2677,0.431,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,6,HIGH,86.4,0.8639,0.745,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,6,HIGH,83.7,0.837,0.809,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,6,HIGH,92.5,0.9252,0.883,1,0,Poson Poya - peak pilgrimage of the year,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,6,HIGH,72.4,0.7236,0.735,0,0,Poson Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,6,MEDIUM,44.3,0.4426,0.686,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,6,MEDIUM,67.4,0.6739,0.755,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,6,LOW,37.6,0.3763,0.552,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,6,LOW,5.1,0.0505,0.444,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,6,LOW,34.0,0.3405,0.474,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,6,MEDIUM,54.9,0.549,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,6,MEDIUM,50.3,0.5029,0.659,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,6,LOW,31.4,0.3142,0.447,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,7,MEDIUM,52.8,0.528,0.547,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,7,MEDIUM,54.1,0.5409,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,7,MEDIUM,45.4,0.4538,0.639,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,7,HIGH,88.1,0.8808,0.841,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,7,MEDIUM,50.6,0.506,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,7,LOW,35.3,0.3534,0.391,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,7,MEDIUM,40.8,0.4082,0.548,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,7,LOW,40.0,0.3996,0.478,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,7,HIGH,89.1,0.8913,0.879,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,7,HIGH,88.8,0.8883,0.881,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,7,MEDIUM,63.6,0.6356,0.573,0,0,Esala season pilgrimage,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,7,MEDIUM,53.3,0.5328,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,7,MEDIUM,46.2,0.4616,0.606,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,7,HIGH,78.7,0.7873,0.775,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,7,MEDIUM,48.5,0.4847,0.566,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,7,LOW,4.8,0.0477,0.369,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,7,MEDIUM,45.7,0.4566,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,7,HIGH,74.3,0.743,0.95,1,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,7,MEDIUM,56.4,0.5636,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,7,MEDIUM,40.2,0.402,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,8,MEDIUM,53.4,0.5342,0.657,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,8,MEDIUM,67.7,0.6768,0.644,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,8,MEDIUM,50.8,0.5076,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,8,HIGH,91.8,0.9184,0.926,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,8,MEDIUM,53.3,0.5328,0.759,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,8,LOW,39.3,0.3934,0.416,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,8,MEDIUM,43.3,0.4333,0.708,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,8,MEDIUM,41.2,0.4124,0.556,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,8,HIGH,81.9,0.8191,0.805,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,8,HIGH,77.7,0.7771,0.857,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,8,MEDIUM,68.6,0.686,0.57,0,0,Esala season pilgrimage,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,8,MEDIUM,59.1,0.591,0.687,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,8,MEDIUM,49.3,0.4934,0.715,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,8,HIGH,83.3,0.8334,0.848,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,8,MEDIUM,51.8,0.5182,0.55,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,8,LOW,6.1,0.0613,0.462,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,8,MEDIUM,52.7,0.5271,0.573,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,8,MEDIUM,66.2,0.6622,0.713,0,0,Nallur Kandaswamy festival,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,8,MEDIUM,55.9,0.5589,0.691,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,8,MEDIUM,45.1,0.4506,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,9,LOW,39.8,0.3978,0.419,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,9,MEDIUM,42.2,0.422,0.622,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,9,LOW,37.2,0.3717,0.431,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,9,MEDIUM,48.5,0.4853,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,9,MEDIUM,40.4,0.4039,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,9,LOW,31.7,0.317,0.424,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,9,LOW,37.5,0.3753,0.462,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,9,LOW,33.7,0.3365,0.361,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,9,HIGH,73.0,0.7296,0.873,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,9,MEDIUM,62.3,0.6226,0.714,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,9,LOW,31.2,0.3117,0.535,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,9,LOW,31.2,0.3122,0.428,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,9,LOW,34.2,0.3422,0.537,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,9,HIGH,75.5,0.7553,0.789,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,9,LOW,37.2,0.372,0.433,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,9,LOW,5.6,0.056,0.395,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,9,LOW,36.1,0.3609,0.404,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,9,MEDIUM,44.9,0.4492,0.664,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,9,MEDIUM,56.0,0.5603,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,9,LOW,39.9,0.3987,0.437,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,10,LOW,39.9,0.399,0.49,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,10,MEDIUM,42.5,0.4247,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,10,MEDIUM,48.4,0.484,0.68,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,10,MEDIUM,45.7,0.4565,0.797,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,10,LOW,38.7,0.3872,0.418,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,10,MEDIUM,40.7,0.4069,0.617,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,10,MEDIUM,43.6,0.4357,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,10,MEDIUM,45.0,0.4498,0.616,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,10,MEDIUM,52.7,0.5271,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,10,LOW,38.9,0.389,0.488,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,10,LOW,30.3,0.303,0.359,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,10,LOW,28.0,0.2801,0.558,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,10,LOW,36.8,0.3684,0.427,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,10,LOW,20.3,0.2029,0.47,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,10,MEDIUM,41.3,0.4132,0.771,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,10,LOW,7.9,0.0793,0.402,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,10,LOW,37.2,0.3724,0.406,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,10,LOW,37.9,0.3794,0.558,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,10,MEDIUM,52.6,0.526,0.663,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,10,MEDIUM,45.0,0.4496,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,11,MEDIUM,58.6,0.5857,0.618,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,11,MEDIUM,53.7,0.5365,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,11,MEDIUM,67.2,0.6722,0.761,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,11,MEDIUM,51.5,0.5146,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,11,MEDIUM,46.3,0.4633,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,11,HIGH,72.9,0.7287,0.85,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,11,HIGH,71.6,0.7163,0.89,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,11,MEDIUM,66.3,0.6628,0.689,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,11,LOW,19.8,0.1983,0.459,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,11,LOW,25.4,0.2545,0.401,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,11,MEDIUM,40.7,0.4074,0.626,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,11,LOW,34.0,0.3405,0.527,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,11,MEDIUM,45.4,0.4543,0.653,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,11,MEDIUM,41.9,0.4194,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,11,MEDIUM,46.5,0.4645,0.78,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,11,LOW,14.8,0.1477,0.463,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,11,MEDIUM,45.6,0.4556,0.745,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,11,LOW,34.8,0.3483,0.467,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,11,MEDIUM,63.9,0.6388,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,11,MEDIUM,56.7,0.5671,0.662,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2025,12,MEDIUM,68.5,0.6849,0.588,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2025,12,HIGH,78.5,0.7852,0.778,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2025,12,HIGH,90.1,0.9008,0.729,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2025,12,MEDIUM,60.3,0.6027,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2025,12,MEDIUM,62.5,0.6254,0.646,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2025,12,HIGH,82.6,0.8264,0.933,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2025,12,HIGH,77.9,0.7792,0.688,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2025,12,HIGH,81.8,0.8176,0.79,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2025,12,LOW,13.3,0.1329,0.493,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2025,12,LOW,22.3,0.2227,0.416,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2025,12,MEDIUM,42.1,0.4212,0.702,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2025,12,MEDIUM,43.4,0.4337,0.644,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2025,12,MEDIUM,60.1,0.6008,0.586,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2025,12,MEDIUM,53.6,0.5358,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2025,12,MEDIUM,54.9,0.5487,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2025,12,HIGH,86.9,0.8694,0.841,1,0,Pilgrimage season opens (Unduvap Poya),redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2025,12,MEDIUM,51.6,0.5156,0.737,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2025,12,MEDIUM,41.8,0.4183,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2025,12,HIGH,73.2,0.7323,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2025,12,HIGH,74.1,0.7405,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,1,MEDIUM,59.9,0.599,0.593,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,1,MEDIUM,68.0,0.68,0.662,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,1,HIGH,82.3,0.823,0.735,0,0,Galle Literary Festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,1,MEDIUM,46.2,0.462,0.585,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,1,MEDIUM,53.3,0.533,0.703,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,1,HIGH,84.1,0.841,0.909,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,1,HIGH,85.3,0.853,0.768,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,1,HIGH,84.4,0.844,0.852,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,1,LOW,14.5,0.145,0.439,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,1,LOW,24.9,0.249,0.367,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,1,LOW,37.3,0.373,0.565,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,1,LOW,28.5,0.285,0.484,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,1,MEDIUM,48.0,0.48,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,1,MEDIUM,52.9,0.529,0.598,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,1,MEDIUM,51.8,0.518,0.6,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,1,HIGH,94.9,0.949,0.817,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,1,MEDIUM,57.8,0.578,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,1,LOW,35.2,0.352,0.495,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,1,MEDIUM,67.4,0.674,0.591,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,1,HIGH,70.4,0.704,0.865,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,2,MEDIUM,58.3,0.583,0.683,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,2,HIGH,74.3,0.743,0.854,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,2,HIGH,79.3,0.793,0.712,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,2,LOW,38.6,0.386,0.453,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,2,MEDIUM,51.6,0.516,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,2,HIGH,90.5,0.905,0.72,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,2,HIGH,82.2,0.822,0.747,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,2,HIGH,78.3,0.783,0.823,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,2,LOW,17.5,0.175,0.427,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,2,LOW,32.3,0.323,0.415,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,2,LOW,31.9,0.319,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,2,LOW,28.5,0.285,0.536,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,2,MEDIUM,45.1,0.451,0.602,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,2,MEDIUM,60.2,0.602,0.638,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,2,MEDIUM,53.3,0.533,0.614,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,2,HIGH,85.8,0.858,0.811,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,2,MEDIUM,67.9,0.679,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,2,LOW,38.2,0.382,0.425,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,2,MEDIUM,60.7,0.607,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,2,HIGH,75.9,0.759,0.795,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,3,MEDIUM,65.7,0.657,0.775,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,3,HIGH,75.4,0.754,0.8,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,3,HIGH,78.4,0.784,0.796,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,3,MEDIUM,44.1,0.441,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,3,MEDIUM,58.9,0.589,0.629,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,3,HIGH,79.3,0.793,0.921,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,3,HIGH,77.8,0.778,0.807,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,3,HIGH,76.7,0.767,0.687,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,3,LOW,31.5,0.315,0.496,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,3,MEDIUM,41.4,0.414,0.719,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,3,LOW,40.0,0.4,0.425,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,3,LOW,33.7,0.337,0.586,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,3,MEDIUM,53.3,0.533,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,3,MEDIUM,53.0,0.53,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,3,MEDIUM,52.6,0.526,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,3,HIGH,73.8,0.738,0.791,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,3,MEDIUM,57.0,0.57,0.67,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,3,MEDIUM,45.2,0.452,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,3,MEDIUM,61.4,0.614,0.591,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,3,MEDIUM,66.8,0.668,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,4,MEDIUM,58.2,0.582,0.595,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,4,MEDIUM,66.4,0.664,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,4,MEDIUM,61.6,0.616,0.763,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,4,MEDIUM,53.2,0.532,0.575,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,4,HIGH,90.6,0.906,0.91,1,0,April Season - New Year festivities,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,4,MEDIUM,65.6,0.656,0.647,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,4,MEDIUM,64.7,0.647,0.582,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,4,MEDIUM,68.4,0.684,0.658,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,4,MEDIUM,64.6,0.646,0.694,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,4,MEDIUM,67.7,0.677,0.663,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,4,MEDIUM,54.8,0.548,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,4,MEDIUM,58.1,0.581,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,4,MEDIUM,55.6,0.556,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,4,MEDIUM,48.4,0.484,0.642,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,4,MEDIUM,53.9,0.539,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,4,MEDIUM,62.3,0.623,0.742,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,4,MEDIUM,53.2,0.532,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,4,MEDIUM,43.7,0.437,0.551,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,4,MEDIUM,62.3,0.623,0.654,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,4,MEDIUM,50.9,0.509,0.572,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,5,LOW,35.3,0.353,0.55,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,5,MEDIUM,41.0,0.41,0.36,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,5,LOW,36.7,0.367,0.434,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,5,MEDIUM,44.1,0.441,0.647,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,5,MEDIUM,55.1,0.551,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,5,LOW,33.4,0.334,0.518,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,5,LOW,33.1,0.331,0.384,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,5,LOW,35.1,0.351,0.454,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,5,HIGH,79.6,0.796,0.819,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,5,HIGH,82.0,0.82,0.811,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,5,HIGH,82.1,0.821,0.787,1,0,Vesak Poya pilgrimage surge,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,5,HIGH,71.3,0.713,0.617,0,0,Vesak Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,5,MEDIUM,53.8,0.538,0.656,0,0,Vesak at the Golden Cave Temple,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,5,MEDIUM,50.5,0.505,0.74,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,5,LOW,39.9,0.399,0.515,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,5,MEDIUM,63.7,0.637,0.526,0,0,Season closes at Vesak Poya,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,5,MEDIUM,42.8,0.428,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,5,MEDIUM,50.0,0.5,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,5,MEDIUM,50.6,0.506,0.755,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,5,LOW,37.5,0.375,0.526,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,6,LOW,33.2,0.332,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,6,LOW,34.8,0.348,0.479,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,6,LOW,28.8,0.288,0.493,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,6,MEDIUM,52.1,0.521,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,6,MEDIUM,42.5,0.425,0.677,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,6,LOW,25.4,0.254,0.52,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,6,LOW,28.3,0.283,0.487,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,6,LOW,27.7,0.277,0.431,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,6,HIGH,89.5,0.895,0.745,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,6,HIGH,86.1,0.861,0.809,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,6,HIGH,91.6,0.916,0.883,1,0,Poson Poya - peak pilgrimage of the year,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,6,HIGH,74.5,0.745,0.735,0,0,Poson Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,6,MEDIUM,45.7,0.457,0.686,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,6,HIGH,72.8,0.728,0.755,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,6,LOW,38.6,0.386,0.552,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,6,LOW,5.3,0.053,0.444,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,6,LOW,35.0,0.35,0.474,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,6,MEDIUM,55.2,0.552,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,6,MEDIUM,53.0,0.53,0.659,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,6,LOW,32.8,0.328,0.447,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,7,MEDIUM,55.2,0.552,0.547,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,7,MEDIUM,54.7,0.547,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,7,MEDIUM,48.1,0.481,0.639,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,7,HIGH,88.2,0.882,0.841,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,7,MEDIUM,52.7,0.527,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,7,LOW,38.0,0.38,0.391,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,7,MEDIUM,41.2,0.412,0.548,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,7,MEDIUM,40.7,0.407,0.478,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,7,HIGH,92.0,0.92,0.879,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,7,HIGH,90.5,0.905,0.881,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,7,MEDIUM,63.5,0.635,0.573,0,0,Esala season pilgrimage,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,7,MEDIUM,55.0,0.55,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,7,MEDIUM,46.6,0.466,0.606,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,7,HIGH,81.8,0.818,0.775,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,7,MEDIUM,49.0,0.49,0.566,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,7,LOW,5.1,0.051,0.369,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,7,MEDIUM,46.3,0.463,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,7,HIGH,76.0,0.76,0.95,1,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,7,MEDIUM,59.0,0.59,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,7,MEDIUM,40.4,0.404,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,8,MEDIUM,55.3,0.553,0.657,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,8,HIGH,71.6,0.716,0.644,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,8,MEDIUM,50.6,0.506,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,8,HIGH,94.9,0.949,0.926,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,8,MEDIUM,55.2,0.552,0.759,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,8,MEDIUM,41.1,0.411,0.416,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,8,MEDIUM,43.5,0.435,0.708,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,8,MEDIUM,41.3,0.413,0.556,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,8,HIGH,85.2,0.852,0.805,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,8,HIGH,80.5,0.805,0.857,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,8,HIGH,71.0,0.71,0.57,0,0,Esala season pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,8,MEDIUM,61.3,0.613,0.687,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,8,MEDIUM,50.1,0.501,0.715,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,8,HIGH,86.2,0.862,0.848,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,8,MEDIUM,53.7,0.537,0.55,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,8,LOW,6.2,0.062,0.462,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,8,MEDIUM,56.3,0.563,0.573,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,8,MEDIUM,68.8,0.688,0.713,0,0,Nallur Kandaswamy festival,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,8,MEDIUM,56.2,0.562,0.691,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,8,MEDIUM,47.1,0.471,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,9,MEDIUM,40.2,0.402,0.419,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,9,MEDIUM,44.2,0.442,0.622,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,9,LOW,39.2,0.392,0.431,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,9,MEDIUM,49.1,0.491,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,9,MEDIUM,42.4,0.424,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,9,LOW,32.9,0.329,0.424,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,9,LOW,39.3,0.393,0.462,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,9,LOW,36.0,0.36,0.361,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,9,HIGH,74.8,0.748,0.873,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,9,MEDIUM,63.2,0.632,0.714,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,9,LOW,31.6,0.316,0.535,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,9,LOW,31.6,0.316,0.428,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,9,LOW,35.2,0.352,0.537,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,9,HIGH,78.3,0.783,0.789,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,9,LOW,38.5,0.385,0.433,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,9,LOW,5.9,0.059,0.395,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,9,LOW,37.2,0.372,0.404,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,9,MEDIUM,47.6,0.476,0.664,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,9,MEDIUM,57.4,0.574,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,9,MEDIUM,43.3,0.433,0.437,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,10,MEDIUM,41.6,0.416,0.49,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,10,MEDIUM,43.0,0.43,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,10,MEDIUM,48.8,0.488,0.68,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,10,MEDIUM,47.5,0.475,0.797,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,10,LOW,39.7,0.397,0.418,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,10,MEDIUM,42.5,0.425,0.617,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,10,MEDIUM,45.3,0.453,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,10,MEDIUM,46.3,0.463,0.616,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,10,MEDIUM,53.4,0.534,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,10,LOW,38.9,0.389,0.488,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,10,LOW,30.9,0.309,0.359,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,10,LOW,29.3,0.293,0.558,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,10,LOW,38.1,0.381,0.427,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,10,LOW,20.4,0.204,0.47,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,10,MEDIUM,42.7,0.427,0.771,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,10,LOW,8.2,0.082,0.402,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,10,LOW,37.6,0.376,0.406,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,10,LOW,39.2,0.392,0.558,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,10,MEDIUM,54.2,0.542,0.663,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,10,MEDIUM,45.3,0.453,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,11,MEDIUM,60.8,0.608,0.618,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,11,MEDIUM,55.9,0.559,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,11,HIGH,70.7,0.707,0.761,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,11,MEDIUM,54.2,0.542,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,11,MEDIUM,46.4,0.464,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,11,HIGH,73.7,0.737,0.85,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,11,HIGH,74.5,0.745,0.89,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,11,MEDIUM,69.0,0.69,0.689,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,11,LOW,20.6,0.206,0.459,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,11,LOW,28.2,0.282,0.401,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,11,MEDIUM,42.4,0.424,0.626,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,11,LOW,35.8,0.358,0.527,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,11,MEDIUM,47.7,0.477,0.653,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,11,MEDIUM,43.7,0.437,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,11,MEDIUM,47.6,0.476,0.78,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,11,LOW,15.5,0.155,0.463,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,11,MEDIUM,46.2,0.462,0.745,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,11,LOW,35.7,0.357,0.467,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,11,MEDIUM,65.2,0.652,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,11,MEDIUM,58.5,0.585,0.662,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2026,12,HIGH,73.8,0.738,0.588,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2026,12,HIGH,77.8,0.778,0.778,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2026,12,HIGH,94.1,0.941,0.729,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2026,12,MEDIUM,60.1,0.601,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2026,12,MEDIUM,63.8,0.638,0.646,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2026,12,HIGH,86.9,0.869,0.933,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2026,12,HIGH,80.3,0.803,0.688,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2026,12,HIGH,82.4,0.824,0.79,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2026,12,LOW,13.5,0.135,0.493,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2026,12,LOW,23.3,0.233,0.416,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2026,12,MEDIUM,42.7,0.427,0.702,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2026,12,MEDIUM,44.9,0.449,0.644,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2026,12,MEDIUM,62.0,0.62,0.586,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2026,12,MEDIUM,54.5,0.545,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2026,12,MEDIUM,59.0,0.59,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2026,12,HIGH,90.6,0.906,0.841,1,0,Pilgrimage season opens (Unduvap Poya),redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2026,12,MEDIUM,51.0,0.51,0.737,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2026,12,MEDIUM,43.2,0.432,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2026,12,HIGH,74.4,0.744,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2026,12,HIGH,77.6,0.776,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,1,MEDIUM,60.1,0.601,0.593,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,1,MEDIUM,70.0,0.7,0.662,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,1,HIGH,84.5,0.845,0.735,0,0,Galle Literary Festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,1,MEDIUM,46.9,0.469,0.585,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,1,MEDIUM,53.8,0.538,0.703,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,1,HIGH,86.3,0.863,0.909,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,1,HIGH,84.3,0.843,0.768,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,1,HIGH,84.4,0.844,0.852,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,1,LOW,15.6,0.156,0.439,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,1,LOW,25.5,0.255,0.367,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,1,LOW,37.8,0.378,0.565,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,1,LOW,30.1,0.301,0.484,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,1,MEDIUM,51.3,0.513,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,1,MEDIUM,57.8,0.578,0.598,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,1,MEDIUM,53.5,0.535,0.6,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,1,HIGH,97.8,0.978,0.817,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,1,MEDIUM,62.3,0.623,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,1,LOW,35.5,0.355,0.495,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,1,HIGH,71.2,0.712,0.591,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,1,HIGH,75.7,0.757,0.865,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,2,MEDIUM,57.2,0.572,0.683,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,2,HIGH,76.8,0.768,0.854,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,2,HIGH,76.2,0.762,0.712,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,2,MEDIUM,40.1,0.401,0.453,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,2,MEDIUM,53.4,0.534,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,2,HIGH,90.6,0.906,0.72,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,2,HIGH,89.4,0.894,0.747,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,2,HIGH,77.7,0.777,0.823,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,2,LOW,18.1,0.181,0.427,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,2,LOW,33.5,0.335,0.415,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,2,LOW,34.1,0.341,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,2,LOW,27.5,0.275,0.536,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,2,MEDIUM,47.5,0.475,0.602,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,2,MEDIUM,63.3,0.633,0.638,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,2,MEDIUM,52.9,0.529,0.614,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,2,HIGH,91.4,0.914,0.811,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,2,MEDIUM,69.8,0.698,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,2,MEDIUM,40.4,0.404,0.425,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,2,MEDIUM,64.2,0.642,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,2,HIGH,77.2,0.772,0.795,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,3,MEDIUM,66.8,0.668,0.775,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,3,HIGH,78.4,0.784,0.8,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,3,HIGH,83.4,0.834,0.796,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,3,MEDIUM,44.6,0.446,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,3,MEDIUM,65.1,0.651,0.629,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,3,HIGH,79.6,0.796,0.921,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,3,HIGH,80.5,0.805,0.807,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,3,HIGH,78.2,0.782,0.687,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,3,LOW,32.4,0.324,0.496,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,3,MEDIUM,43.7,0.437,0.719,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,3,MEDIUM,40.7,0.407,0.425,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,3,LOW,34.6,0.346,0.586,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,3,MEDIUM,55.0,0.55,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,3,MEDIUM,54.8,0.548,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,3,MEDIUM,53.4,0.534,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,3,HIGH,73.5,0.735,0.791,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,3,MEDIUM,60.8,0.608,0.67,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,3,MEDIUM,47.1,0.471,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,3,MEDIUM,63.8,0.638,0.591,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,3,MEDIUM,68.3,0.683,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,4,MEDIUM,59.5,0.595,0.595,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,4,MEDIUM,67.8,0.678,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,4,MEDIUM,65.8,0.658,0.763,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,4,MEDIUM,56.8,0.568,0.575,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,4,HIGH,91.8,0.918,0.91,1,0,April Season - New Year festivities,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,4,MEDIUM,65.9,0.659,0.647,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,4,MEDIUM,68.4,0.684,0.582,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,4,MEDIUM,68.2,0.682,0.658,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,4,MEDIUM,66.8,0.668,0.694,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,4,HIGH,70.3,0.703,0.663,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,4,MEDIUM,55.7,0.557,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,4,MEDIUM,59.3,0.593,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,4,MEDIUM,58.2,0.582,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,4,MEDIUM,49.1,0.491,0.642,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,4,MEDIUM,60.0,0.6,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,4,MEDIUM,63.1,0.631,0.742,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,4,MEDIUM,55.4,0.554,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,4,MEDIUM,45.0,0.45,0.551,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,4,MEDIUM,64.4,0.644,0.654,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,4,MEDIUM,54.4,0.544,0.572,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,5,LOW,36.5,0.365,0.55,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,5,MEDIUM,42.4,0.424,0.36,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,5,LOW,36.1,0.361,0.434,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,5,MEDIUM,47.8,0.478,0.647,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,5,MEDIUM,56.5,0.565,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,5,LOW,33.9,0.339,0.518,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,5,LOW,34.3,0.343,0.384,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,5,LOW,36.5,0.365,0.454,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,5,HIGH,83.8,0.838,0.819,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,5,HIGH,84.6,0.846,0.811,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,5,HIGH,84.4,0.844,0.787,1,0,Vesak Poya pilgrimage surge,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,5,HIGH,70.7,0.707,0.617,0,0,Vesak Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,5,MEDIUM,56.3,0.563,0.656,0,0,Vesak at the Golden Cave Temple,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,5,MEDIUM,51.7,0.517,0.74,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,5,MEDIUM,42.1,0.421,0.515,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,5,MEDIUM,67.3,0.673,0.526,0,0,Season closes at Vesak Poya,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,5,MEDIUM,43.1,0.431,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,5,MEDIUM,50.9,0.509,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,5,MEDIUM,52.5,0.525,0.755,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,5,LOW,38.4,0.384,0.526,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,6,LOW,34.6,0.346,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,6,LOW,36.3,0.363,0.479,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,6,LOW,30.0,0.3,0.493,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,6,MEDIUM,53.9,0.539,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,6,MEDIUM,43.5,0.435,0.677,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,6,LOW,26.1,0.261,0.52,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,6,LOW,27.3,0.273,0.487,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,6,LOW,27.6,0.276,0.431,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,6,HIGH,90.3,0.903,0.745,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,6,HIGH,88.3,0.883,0.809,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,6,HIGH,98.7,0.987,0.883,1,0,Poson Poya - peak pilgrimage of the year,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,6,HIGH,79.0,0.79,0.735,0,0,Poson Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,6,MEDIUM,47.8,0.478,0.686,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,6,HIGH,71.2,0.712,0.755,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,6,LOW,39.8,0.398,0.552,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,6,LOW,5.3,0.053,0.444,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,6,LOW,36.0,0.36,0.474,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,6,MEDIUM,57.9,0.579,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,6,MEDIUM,53.7,0.537,0.659,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,6,LOW,32.7,0.327,0.447,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,7,MEDIUM,56.5,0.565,0.547,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,7,MEDIUM,59.1,0.591,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,7,MEDIUM,48.0,0.48,0.639,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,7,HIGH,94.1,0.941,0.841,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,7,MEDIUM,54.4,0.544,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,7,LOW,37.1,0.371,0.391,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,7,MEDIUM,43.4,0.434,0.548,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,7,MEDIUM,42.4,0.424,0.478,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,7,HIGH,94.6,0.946,0.879,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,7,HIGH,92.7,0.927,0.881,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,7,MEDIUM,67.4,0.674,0.573,0,0,Esala season pilgrimage,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,7,MEDIUM,57.1,0.571,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,7,MEDIUM,50.4,0.504,0.606,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,7,HIGH,85.0,0.85,0.775,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,7,MEDIUM,53.6,0.536,0.566,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,7,LOW,5.0,0.05,0.369,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,7,MEDIUM,49.3,0.493,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,7,HIGH,79.0,0.79,0.95,1,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,7,MEDIUM,62.4,0.624,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,7,MEDIUM,41.9,0.419,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,8,MEDIUM,55.7,0.557,0.657,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,8,HIGH,70.9,0.709,0.644,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,8,MEDIUM,51.6,0.516,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,8,HIGH,96.3,0.963,0.926,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,8,MEDIUM,55.6,0.556,0.759,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,8,MEDIUM,41.8,0.418,0.416,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,8,MEDIUM,46.2,0.462,0.708,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,8,MEDIUM,45.3,0.453,0.556,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,8,HIGH,88.5,0.885,0.805,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,8,HIGH,81.4,0.814,0.857,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,8,HIGH,71.4,0.714,0.57,0,0,Esala season pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,8,MEDIUM,63.3,0.633,0.687,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,8,MEDIUM,50.9,0.509,0.715,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,8,HIGH,91.5,0.915,0.848,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,8,MEDIUM,56.2,0.562,0.55,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,8,LOW,6.4,0.064,0.462,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,8,MEDIUM,53.9,0.539,0.573,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,8,HIGH,72.1,0.721,0.713,0,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,8,MEDIUM,59.1,0.591,0.691,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,8,MEDIUM,49.0,0.49,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,9,MEDIUM,40.8,0.408,0.419,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,9,MEDIUM,44.2,0.442,0.622,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,9,LOW,39.4,0.394,0.431,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,9,MEDIUM,51.5,0.515,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,9,MEDIUM,42.4,0.424,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,9,LOW,34.0,0.34,0.424,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,9,LOW,38.9,0.389,0.462,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,9,LOW,35.6,0.356,0.361,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,9,HIGH,77.6,0.776,0.873,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,9,MEDIUM,66.7,0.667,0.714,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,9,LOW,33.5,0.335,0.535,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,9,LOW,32.3,0.323,0.428,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,9,LOW,35.1,0.351,0.537,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,9,HIGH,82.1,0.821,0.789,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,9,LOW,39.7,0.397,0.433,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,9,LOW,5.8,0.058,0.395,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,9,LOW,39.5,0.395,0.404,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,9,MEDIUM,47.7,0.477,0.664,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,9,MEDIUM,60.8,0.608,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,9,MEDIUM,42.4,0.424,0.437,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,10,MEDIUM,44.0,0.44,0.49,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,10,MEDIUM,46.6,0.466,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,10,MEDIUM,51.0,0.51,0.68,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,10,MEDIUM,49.4,0.494,0.797,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,10,MEDIUM,41.6,0.416,0.418,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,10,MEDIUM,44.3,0.443,0.617,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,10,MEDIUM,45.3,0.453,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,10,MEDIUM,48.4,0.484,0.616,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,10,MEDIUM,57.0,0.57,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,10,LOW,39.8,0.398,0.488,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,10,LOW,31.4,0.314,0.359,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,10,LOW,28.5,0.285,0.558,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,10,LOW,38.8,0.388,0.427,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,10,LOW,21.8,0.218,0.47,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,10,MEDIUM,45.1,0.451,0.771,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,10,LOW,8.4,0.084,0.402,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,10,MEDIUM,40.7,0.407,0.406,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,10,LOW,39.1,0.391,0.558,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,10,MEDIUM,53.9,0.539,0.663,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,10,MEDIUM,47.6,0.476,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,11,MEDIUM,62.6,0.626,0.618,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,11,MEDIUM,56.9,0.569,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,11,MEDIUM,68.3,0.683,0.761,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,11,MEDIUM,54.5,0.545,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,11,MEDIUM,47.8,0.478,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,11,HIGH,78.3,0.783,0.85,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,11,HIGH,76.5,0.765,0.89,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,11,MEDIUM,69.0,0.69,0.689,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,11,LOW,20.8,0.208,0.459,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,11,LOW,26.4,0.264,0.401,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,11,MEDIUM,43.1,0.431,0.626,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,11,LOW,36.7,0.367,0.527,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,11,MEDIUM,47.2,0.472,0.653,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,11,MEDIUM,44.9,0.449,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,11,MEDIUM,48.8,0.488,0.78,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,11,LOW,15.4,0.154,0.463,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,11,MEDIUM,48.2,0.482,0.745,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,11,LOW,36.1,0.361,0.467,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,11,MEDIUM,67.0,0.67,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,11,MEDIUM,58.7,0.587,0.662,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2027,12,HIGH,75.5,0.755,0.588,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2027,12,HIGH,83.3,0.833,0.778,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2027,12,HIGH,94.2,0.942,0.729,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2027,12,MEDIUM,64.2,0.642,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2027,12,MEDIUM,66.1,0.661,0.646,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2027,12,HIGH,87.2,0.872,0.933,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2027,12,HIGH,83.6,0.836,0.688,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2027,12,HIGH,88.0,0.88,0.79,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2027,12,LOW,13.9,0.139,0.493,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2027,12,LOW,23.4,0.234,0.416,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2027,12,MEDIUM,44.4,0.444,0.702,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2027,12,MEDIUM,43.9,0.439,0.644,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2027,12,MEDIUM,61.8,0.618,0.586,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2027,12,MEDIUM,58.4,0.584,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2027,12,MEDIUM,60.1,0.601,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2027,12,HIGH,91.7,0.917,0.841,1,0,Pilgrimage season opens (Unduvap Poya),redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2027,12,MEDIUM,55.3,0.553,0.737,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2027,12,MEDIUM,44.6,0.446,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2027,12,HIGH,82.4,0.824,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2027,12,HIGH,80.3,0.803,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,1,MEDIUM,62.6,0.626,0.593,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,1,HIGH,70.8,0.708,0.662,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,1,HIGH,83.2,0.832,0.735,0,0,Galle Literary Festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,1,MEDIUM,47.6,0.476,0.585,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,1,MEDIUM,55.8,0.558,0.703,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,1,HIGH,86.8,0.868,0.909,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,1,HIGH,86.4,0.864,0.768,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,1,HIGH,86.1,0.861,0.852,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,1,LOW,16.0,0.16,0.439,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,1,LOW,26.5,0.265,0.367,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,1,LOW,39.9,0.399,0.565,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,1,LOW,31.3,0.313,0.484,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,1,MEDIUM,50.7,0.507,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,1,MEDIUM,57.2,0.572,0.598,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,1,MEDIUM,58.5,0.585,0.6,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,1,HIGH,100.0,1.0,0.817,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,1,MEDIUM,61.2,0.612,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,1,LOW,36.9,0.369,0.495,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,1,HIGH,71.3,0.713,0.591,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,1,HIGH,74.5,0.745,0.865,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,2,MEDIUM,61.1,0.611,0.683,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,2,HIGH,82.0,0.82,0.854,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,2,HIGH,81.5,0.815,0.712,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,2,MEDIUM,42.5,0.425,0.453,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,2,MEDIUM,54.4,0.544,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,2,HIGH,94.7,0.947,0.72,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,2,HIGH,88.0,0.88,0.747,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,2,HIGH,80.9,0.809,0.823,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,2,LOW,18.8,0.188,0.427,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,2,LOW,33.8,0.338,0.415,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,2,LOW,34.3,0.343,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,2,LOW,29.1,0.291,0.536,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,2,MEDIUM,47.5,0.475,0.602,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,2,MEDIUM,63.9,0.639,0.638,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,2,MEDIUM,54.8,0.548,0.614,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,2,HIGH,94.5,0.945,0.811,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,2,HIGH,72.2,0.722,0.665,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,2,MEDIUM,41.3,0.413,0.425,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,2,MEDIUM,66.1,0.661,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,2,HIGH,81.2,0.812,0.795,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,3,MEDIUM,66.3,0.663,0.775,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,3,HIGH,80.4,0.804,0.8,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,3,HIGH,82.1,0.821,0.796,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,3,MEDIUM,47.5,0.475,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,3,MEDIUM,63.2,0.632,0.629,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,3,HIGH,82.1,0.821,0.921,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,3,HIGH,80.4,0.804,0.807,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,3,HIGH,79.5,0.795,0.687,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,3,LOW,33.3,0.333,0.496,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,3,MEDIUM,44.6,0.446,0.719,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,3,MEDIUM,42.6,0.426,0.425,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,3,LOW,34.8,0.348,0.586,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,3,MEDIUM,57.1,0.571,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,3,MEDIUM,54.0,0.54,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,3,MEDIUM,53.8,0.538,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,3,HIGH,76.7,0.767,0.791,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,3,MEDIUM,60.3,0.603,0.67,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,3,MEDIUM,47.8,0.478,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,3,MEDIUM,65.8,0.658,0.591,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,3,MEDIUM,68.5,0.685,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,4,MEDIUM,63.3,0.633,0.595,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,4,MEDIUM,68.9,0.689,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,4,MEDIUM,67.4,0.674,0.763,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,4,MEDIUM,59.3,0.593,0.575,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,4,HIGH,89.7,0.897,0.91,1,0,April Season - New Year festivities,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,4,MEDIUM,66.5,0.665,0.647,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,4,MEDIUM,69.4,0.694,0.582,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,4,HIGH,70.7,0.707,0.658,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,4,MEDIUM,68.4,0.684,0.694,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,4,HIGH,71.7,0.717,0.663,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,4,MEDIUM,57.7,0.577,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,4,MEDIUM,59.4,0.594,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,4,MEDIUM,60.2,0.602,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,4,MEDIUM,50.0,0.5,0.642,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,4,MEDIUM,60.6,0.606,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,4,MEDIUM,64.3,0.643,0.742,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,4,MEDIUM,55.7,0.557,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,4,MEDIUM,46.1,0.461,0.551,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,4,MEDIUM,66.4,0.664,0.654,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,4,MEDIUM,55.7,0.557,0.572,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,5,LOW,37.7,0.377,0.55,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,5,MEDIUM,44.8,0.448,0.36,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,5,LOW,38.4,0.384,0.434,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,5,MEDIUM,46.9,0.469,0.647,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,5,MEDIUM,60.7,0.607,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,5,LOW,35.5,0.355,0.518,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,5,LOW,33.0,0.33,0.384,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,5,LOW,36.2,0.362,0.454,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,5,HIGH,81.9,0.819,0.819,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,5,HIGH,85.3,0.853,0.811,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,5,HIGH,86.8,0.868,0.787,1,0,Vesak Poya pilgrimage surge,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,5,HIGH,76.5,0.765,0.617,0,0,Vesak Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,5,MEDIUM,58.1,0.581,0.656,0,0,Vesak at the Golden Cave Temple,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,5,MEDIUM,53.6,0.536,0.74,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,5,MEDIUM,43.2,0.432,0.515,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,5,MEDIUM,66.4,0.664,0.526,0,0,Season closes at Vesak Poya,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,5,MEDIUM,45.2,0.452,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,5,MEDIUM,53.5,0.535,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,5,MEDIUM,51.9,0.519,0.755,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,5,MEDIUM,40.8,0.408,0.526,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,6,LOW,36.4,0.364,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,6,LOW,36.9,0.369,0.479,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,6,LOW,31.1,0.311,0.493,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,6,MEDIUM,58.6,0.586,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,6,MEDIUM,45.3,0.453,0.677,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,6,LOW,26.8,0.268,0.52,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,6,LOW,28.6,0.286,0.487,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,6,LOW,28.7,0.287,0.431,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,6,HIGH,95.7,0.957,0.745,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,6,HIGH,89.7,0.897,0.809,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,6,HIGH,100.0,1.0,0.883,1,0,Poson Poya - peak pilgrimage of the year,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,6,HIGH,78.2,0.782,0.735,0,0,Poson Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,6,MEDIUM,48.7,0.487,0.686,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,6,HIGH,74.0,0.74,0.755,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,6,MEDIUM,41.8,0.418,0.552,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,6,LOW,5.5,0.055,0.444,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,6,LOW,36.9,0.369,0.474,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,6,MEDIUM,58.7,0.587,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,6,MEDIUM,54.3,0.543,0.659,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,6,LOW,34.5,0.345,0.447,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,7,MEDIUM,58.4,0.584,0.547,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,7,MEDIUM,57.9,0.579,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,7,MEDIUM,50.3,0.503,0.639,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,7,HIGH,98.6,0.986,0.841,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,7,MEDIUM,55.6,0.556,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,7,LOW,39.9,0.399,0.391,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,7,MEDIUM,43.8,0.438,0.548,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,7,MEDIUM,42.5,0.425,0.478,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,7,HIGH,93.7,0.937,0.879,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,7,HIGH,99.7,0.997,0.881,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,7,HIGH,70.2,0.702,0.573,0,0,Esala season pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,7,MEDIUM,58.0,0.58,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,7,MEDIUM,50.6,0.506,0.606,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,7,HIGH,83.9,0.839,0.775,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,7,MEDIUM,55.5,0.555,0.566,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,7,LOW,5.2,0.052,0.369,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,7,MEDIUM,49.9,0.499,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,7,HIGH,82.2,0.822,0.95,1,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,7,MEDIUM,62.1,0.621,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,7,MEDIUM,44.0,0.44,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,8,MEDIUM,57.3,0.573,0.657,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,8,HIGH,74.5,0.745,0.644,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,8,MEDIUM,57.5,0.575,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,8,HIGH,100.0,1.0,0.926,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,8,MEDIUM,59.9,0.599,0.759,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,8,MEDIUM,42.4,0.424,0.416,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,8,MEDIUM,46.3,0.463,0.708,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,8,MEDIUM,44.8,0.448,0.556,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,8,HIGH,89.4,0.894,0.805,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,8,HIGH,86.5,0.865,0.857,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,8,HIGH,72.2,0.722,0.57,0,0,Esala season pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,8,MEDIUM,66.4,0.664,0.687,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,8,MEDIUM,53.6,0.536,0.715,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,8,HIGH,90.0,0.9,0.848,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,8,MEDIUM,55.3,0.553,0.55,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,8,LOW,6.4,0.064,0.462,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,8,MEDIUM,58.4,0.584,0.573,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,8,HIGH,72.3,0.723,0.713,0,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,8,MEDIUM,59.4,0.594,0.691,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,8,MEDIUM,47.9,0.479,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,9,MEDIUM,43.1,0.431,0.419,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,9,MEDIUM,47.5,0.475,0.622,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,9,MEDIUM,40.3,0.403,0.431,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,9,MEDIUM,51.3,0.513,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,9,MEDIUM,43.8,0.438,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,9,LOW,34.4,0.344,0.424,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,9,LOW,38.7,0.387,0.462,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,9,LOW,36.7,0.367,0.361,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,9,HIGH,79.2,0.792,0.873,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,9,MEDIUM,68.9,0.689,0.714,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,9,LOW,35.3,0.353,0.535,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,9,LOW,34.8,0.348,0.428,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,9,LOW,37.1,0.371,0.537,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,9,HIGH,80.5,0.805,0.789,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,9,MEDIUM,42.6,0.426,0.433,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,9,LOW,6.1,0.061,0.395,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,9,LOW,39.4,0.394,0.404,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,9,MEDIUM,48.9,0.489,0.664,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,9,MEDIUM,61.3,0.613,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,9,MEDIUM,43.4,0.434,0.437,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,10,MEDIUM,43.0,0.43,0.49,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,10,MEDIUM,45.8,0.458,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,10,MEDIUM,52.7,0.527,0.68,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,10,MEDIUM,49.3,0.493,0.797,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,10,MEDIUM,41.6,0.416,0.418,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,10,MEDIUM,44.5,0.445,0.617,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,10,MEDIUM,47.3,0.473,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,10,MEDIUM,50.5,0.505,0.616,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,10,MEDIUM,54.4,0.544,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,10,MEDIUM,43.3,0.433,0.488,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,10,LOW,33.9,0.339,0.359,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,10,LOW,29.3,0.293,0.558,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,10,LOW,39.8,0.398,0.427,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,10,LOW,22.0,0.22,0.47,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,10,MEDIUM,43.7,0.437,0.771,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,10,LOW,8.5,0.085,0.402,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,10,LOW,39.6,0.396,0.406,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,10,MEDIUM,42.8,0.428,0.558,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,10,MEDIUM,58.4,0.584,0.663,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,10,MEDIUM,50.3,0.503,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,11,MEDIUM,64.8,0.648,0.618,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,11,MEDIUM,57.2,0.572,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,11,HIGH,72.5,0.725,0.761,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,11,MEDIUM,56.7,0.567,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,11,MEDIUM,49.2,0.492,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,11,HIGH,80.6,0.806,0.85,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,11,HIGH,77.7,0.777,0.89,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,11,HIGH,71.7,0.717,0.689,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,11,LOW,21.9,0.219,0.459,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,11,LOW,27.9,0.279,0.401,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,11,MEDIUM,44.0,0.44,0.626,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,11,LOW,37.9,0.379,0.527,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,11,MEDIUM,48.4,0.484,0.653,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,11,MEDIUM,46.2,0.462,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,11,MEDIUM,51.3,0.513,0.78,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,11,LOW,16.0,0.16,0.463,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,11,MEDIUM,50.0,0.5,0.745,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,11,LOW,37.0,0.37,0.467,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,11,HIGH,70.9,0.709,0.661,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,11,MEDIUM,61.6,0.616,0.662,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2028,12,HIGH,73.9,0.739,0.588,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2028,12,HIGH,87.4,0.874,0.778,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2028,12,HIGH,96.8,0.968,0.729,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2028,12,MEDIUM,63.9,0.639,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2028,12,MEDIUM,66.0,0.66,0.646,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2028,12,HIGH,91.1,0.911,0.933,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2028,12,HIGH,82.7,0.827,0.688,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2028,12,HIGH,92.3,0.923,0.79,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2028,12,LOW,13.9,0.139,0.493,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2028,12,LOW,25.1,0.251,0.416,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2028,12,MEDIUM,46.1,0.461,0.702,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2028,12,MEDIUM,47.2,0.472,0.644,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2028,12,MEDIUM,64.8,0.648,0.586,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2028,12,MEDIUM,58.9,0.589,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2028,12,MEDIUM,59.8,0.598,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2028,12,HIGH,96.8,0.968,0.841,1,0,Pilgrimage season opens (Unduvap Poya),redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2028,12,MEDIUM,56.4,0.564,0.737,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2028,12,MEDIUM,45.7,0.457,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2028,12,HIGH,79.2,0.792,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2028,12,HIGH,80.7,0.807,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,1,MEDIUM,64.9,0.649,0.593,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,1,HIGH,71.6,0.716,0.662,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,1,HIGH,86.0,0.86,0.735,0,0,Galle Literary Festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,1,MEDIUM,49.4,0.494,0.585,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,1,MEDIUM,58.4,0.584,0.703,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,1,HIGH,91.5,0.915,0.909,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,1,HIGH,90.0,0.9,0.768,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,1,HIGH,91.0,0.91,0.852,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,1,LOW,15.7,0.157,0.439,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,1,LOW,26.4,0.264,0.367,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,1,MEDIUM,41.2,0.412,0.565,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,1,LOW,30.6,0.306,0.484,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,1,MEDIUM,52.4,0.524,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,1,MEDIUM,57.8,0.578,0.598,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,1,MEDIUM,59.6,0.596,0.6,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,1,HIGH,100.0,1.0,0.817,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,1,MEDIUM,64.5,0.645,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,1,LOW,38.8,0.388,0.495,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,1,HIGH,77.1,0.771,0.591,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,1,HIGH,80.3,0.803,0.865,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,2,MEDIUM,59.3,0.593,0.683,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,2,HIGH,79.1,0.791,0.854,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,2,HIGH,85.1,0.851,0.712,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,2,MEDIUM,43.3,0.433,0.453,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,2,MEDIUM,57.3,0.573,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,2,HIGH,96.8,0.968,0.72,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,2,HIGH,91.8,0.918,0.747,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,2,HIGH,83.3,0.833,0.823,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,2,LOW,19.0,0.19,0.427,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,2,LOW,34.3,0.343,0.415,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,2,LOW,34.4,0.344,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,2,LOW,29.1,0.291,0.536,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,2,MEDIUM,48.1,0.481,0.602,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,2,MEDIUM,68.3,0.683,0.638,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,2,MEDIUM,55.9,0.559,0.614,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,2,HIGH,100.0,1.0,0.811,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,2,HIGH,74.2,0.742,0.665,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,2,MEDIUM,43.4,0.434,0.425,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,2,MEDIUM,66.6,0.666,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,2,HIGH,83.4,0.834,0.795,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,3,MEDIUM,69.6,0.696,0.775,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,3,HIGH,82.0,0.82,0.8,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,3,HIGH,89.8,0.898,0.796,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,3,MEDIUM,48.2,0.482,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,3,MEDIUM,67.5,0.675,0.629,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,3,HIGH,86.2,0.862,0.921,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,3,HIGH,85.3,0.853,0.807,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,3,HIGH,84.5,0.845,0.687,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,3,LOW,33.6,0.336,0.496,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,3,MEDIUM,48.4,0.484,0.719,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,3,MEDIUM,43.8,0.438,0.425,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,3,LOW,36.5,0.365,0.586,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,3,MEDIUM,59.5,0.595,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,3,MEDIUM,58.0,0.58,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,3,MEDIUM,56.7,0.567,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,3,HIGH,76.3,0.763,0.791,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,3,MEDIUM,62.1,0.621,0.67,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,3,MEDIUM,49.3,0.493,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,3,MEDIUM,66.2,0.662,0.591,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,3,HIGH,72.1,0.721,0.673,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,4,MEDIUM,64.2,0.642,0.595,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,4,HIGH,70.5,0.705,0.731,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,4,MEDIUM,69.1,0.691,0.763,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,4,MEDIUM,60.0,0.6,0.575,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,4,HIGH,98.1,0.981,0.91,1,0,April Season - New Year festivities,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,4,HIGH,70.9,0.709,0.647,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,4,HIGH,71.6,0.716,0.582,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,4,HIGH,73.6,0.736,0.658,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,4,MEDIUM,69.7,0.697,0.694,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,4,HIGH,72.1,0.721,0.663,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,4,MEDIUM,59.6,0.596,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,4,MEDIUM,61.5,0.615,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,4,MEDIUM,60.8,0.608,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,4,MEDIUM,49.8,0.498,0.642,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,4,MEDIUM,60.5,0.605,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,4,MEDIUM,68.0,0.68,0.742,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,4,MEDIUM,57.7,0.577,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,4,MEDIUM,48.5,0.485,0.551,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,4,MEDIUM,67.7,0.677,0.654,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,4,MEDIUM,57.7,0.577,0.572,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,5,LOW,39.3,0.393,0.55,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,5,MEDIUM,43.8,0.438,0.36,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,5,LOW,38.8,0.388,0.434,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,5,MEDIUM,48.0,0.48,0.647,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,5,MEDIUM,60.4,0.604,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,5,LOW,36.5,0.365,0.518,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,5,LOW,35.5,0.355,0.384,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,5,LOW,37.6,0.376,0.454,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,5,HIGH,89.7,0.897,0.819,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,5,HIGH,86.7,0.867,0.811,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,5,HIGH,88.8,0.888,0.787,1,0,Vesak Poya pilgrimage surge,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,5,HIGH,75.4,0.754,0.617,0,0,Vesak Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,5,MEDIUM,61.1,0.611,0.656,0,0,Vesak at the Golden Cave Temple,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,5,MEDIUM,55.5,0.555,0.74,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,5,MEDIUM,44.6,0.446,0.515,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,5,MEDIUM,69.2,0.692,0.526,0,0,Season closes at Vesak Poya,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,5,MEDIUM,46.5,0.465,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,5,MEDIUM,55.1,0.551,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,5,MEDIUM,55.1,0.551,0.755,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,5,MEDIUM,41.9,0.419,0.526,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,6,LOW,36.8,0.368,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,6,LOW,39.3,0.393,0.479,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,6,LOW,33.0,0.33,0.493,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,6,MEDIUM,57.2,0.572,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,6,MEDIUM,46.0,0.46,0.677,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,6,LOW,28.2,0.282,0.52,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,6,LOW,30.6,0.306,0.487,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,6,LOW,29.7,0.297,0.431,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,6,HIGH,96.0,0.96,0.745,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,6,HIGH,93.2,0.932,0.809,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,6,HIGH,100.0,1.0,0.883,1,0,Poson Poya - peak pilgrimage of the year,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,6,HIGH,79.6,0.796,0.735,0,0,Poson Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,6,MEDIUM,48.6,0.486,0.686,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,6,HIGH,74.3,0.743,0.755,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,6,MEDIUM,42.1,0.421,0.552,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,6,LOW,5.7,0.057,0.444,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,6,LOW,39.3,0.393,0.474,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,6,MEDIUM,60.3,0.603,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,6,MEDIUM,57.4,0.574,0.659,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,6,LOW,35.0,0.35,0.447,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,7,MEDIUM,59.1,0.591,0.547,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,7,MEDIUM,61.4,0.614,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,7,MEDIUM,49.7,0.497,0.639,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,7,HIGH,99.4,0.994,0.841,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,7,MEDIUM,56.9,0.569,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,7,LOW,39.9,0.399,0.391,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,7,MEDIUM,46.0,0.46,0.548,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,7,MEDIUM,47.0,0.47,0.478,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,7,HIGH,98.5,0.985,0.879,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,7,HIGH,98.4,0.984,0.881,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,7,HIGH,70.3,0.703,0.573,0,0,Esala season pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,7,MEDIUM,59.0,0.59,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,7,MEDIUM,51.1,0.511,0.606,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,7,HIGH,90.2,0.902,0.775,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,7,MEDIUM,55.9,0.559,0.566,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,7,LOW,5.3,0.053,0.369,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,7,MEDIUM,50.3,0.503,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,7,HIGH,84.0,0.84,0.95,1,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,7,MEDIUM,62.5,0.625,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,7,MEDIUM,45.6,0.456,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,8,MEDIUM,60.1,0.601,0.657,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,8,HIGH,73.5,0.735,0.644,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,8,MEDIUM,58.7,0.587,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,8,HIGH,100.0,1.0,0.926,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,8,MEDIUM,59.0,0.59,0.759,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,8,MEDIUM,43.7,0.437,0.416,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,8,MEDIUM,48.8,0.488,0.708,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,8,MEDIUM,46.5,0.465,0.556,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,8,HIGH,92.9,0.929,0.805,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,8,HIGH,90.5,0.905,0.857,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,8,HIGH,76.6,0.766,0.57,0,0,Esala season pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,8,MEDIUM,65.1,0.651,0.687,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,8,MEDIUM,53.7,0.537,0.715,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,8,HIGH,91.9,0.919,0.848,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,8,MEDIUM,58.0,0.58,0.55,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,8,LOW,7.1,0.071,0.462,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,8,MEDIUM,58.4,0.584,0.573,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,8,HIGH,74.5,0.745,0.713,0,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,8,MEDIUM,62.6,0.626,0.691,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,8,MEDIUM,51.7,0.517,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,9,MEDIUM,46.8,0.468,0.419,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,9,MEDIUM,46.8,0.468,0.622,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,9,MEDIUM,41.3,0.413,0.431,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,9,MEDIUM,55.5,0.555,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,9,MEDIUM,45.9,0.459,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,9,LOW,36.8,0.368,0.424,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,9,MEDIUM,42.5,0.425,0.462,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,9,LOW,37.5,0.375,0.361,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,9,HIGH,82.7,0.827,0.873,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,9,HIGH,71.3,0.713,0.714,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,9,LOW,35.5,0.355,0.535,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,9,LOW,35.3,0.353,0.428,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,9,LOW,39.1,0.391,0.537,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,9,HIGH,86.5,0.865,0.789,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,9,MEDIUM,42.8,0.428,0.433,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,9,LOW,6.4,0.064,0.395,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,9,MEDIUM,40.3,0.403,0.404,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,9,MEDIUM,50.4,0.504,0.664,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,9,MEDIUM,64.2,0.642,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,9,MEDIUM,44.0,0.44,0.437,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,10,MEDIUM,45.0,0.45,0.49,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,10,MEDIUM,47.2,0.472,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,10,MEDIUM,54.2,0.542,0.68,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,10,MEDIUM,52.5,0.525,0.797,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,10,MEDIUM,43.5,0.435,0.418,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,10,MEDIUM,45.6,0.456,0.617,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,10,MEDIUM,47.5,0.475,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,10,MEDIUM,51.2,0.512,0.616,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,10,MEDIUM,59.8,0.598,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,10,MEDIUM,45.5,0.455,0.488,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,10,LOW,33.7,0.337,0.359,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,10,LOW,31.5,0.315,0.558,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,10,MEDIUM,41.4,0.414,0.427,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,10,LOW,23.5,0.235,0.47,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,10,MEDIUM,46.2,0.462,0.771,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,10,LOW,8.9,0.089,0.402,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,10,MEDIUM,42.2,0.422,0.406,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,10,MEDIUM,42.6,0.426,0.558,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,10,MEDIUM,58.4,0.584,0.663,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,10,MEDIUM,50.6,0.506,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,11,MEDIUM,67.0,0.67,0.618,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,11,MEDIUM,58.9,0.589,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,11,HIGH,75.5,0.755,0.761,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,11,MEDIUM,56.9,0.569,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,11,MEDIUM,53.1,0.531,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,11,HIGH,79.2,0.792,0.85,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,11,HIGH,79.3,0.793,0.89,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,11,HIGH,74.8,0.748,0.689,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,11,LOW,22.9,0.229,0.459,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,11,LOW,28.4,0.284,0.401,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,11,MEDIUM,45.1,0.451,0.626,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,11,LOW,39.5,0.395,0.527,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,11,MEDIUM,49.4,0.494,0.653,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,11,MEDIUM,44.9,0.449,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,11,MEDIUM,52.5,0.525,0.78,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,11,LOW,16.4,0.164,0.463,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,11,MEDIUM,50.0,0.5,0.745,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,11,LOW,39.5,0.395,0.467,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,11,HIGH,71.9,0.719,0.661,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,11,MEDIUM,62.8,0.628,0.662,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2029,12,HIGH,74.8,0.748,0.588,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2029,12,HIGH,89.5,0.895,0.778,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2029,12,HIGH,100.0,1.0,0.729,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2029,12,MEDIUM,67.4,0.674,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2029,12,HIGH,72.6,0.726,0.646,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2029,12,HIGH,90.5,0.905,0.933,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2029,12,HIGH,84.6,0.846,0.688,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2029,12,HIGH,90.3,0.903,0.79,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2029,12,LOW,14.9,0.149,0.493,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2029,12,LOW,25.1,0.251,0.416,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2029,12,MEDIUM,46.9,0.469,0.702,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2029,12,MEDIUM,49.0,0.49,0.644,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2029,12,MEDIUM,65.6,0.656,0.586,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2029,12,MEDIUM,61.8,0.618,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2029,12,MEDIUM,61.4,0.614,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2029,12,HIGH,99.5,0.995,0.841,1,0,Pilgrimage season opens (Unduvap Poya),redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2029,12,MEDIUM,58.2,0.582,0.737,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2029,12,MEDIUM,47.2,0.472,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2029,12,HIGH,82.9,0.829,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2029,12,HIGH,83.7,0.837,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,1,MEDIUM,67.1,0.671,0.593,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,1,HIGH,78.2,0.782,0.662,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,1,HIGH,91.1,0.911,0.735,0,0,Galle Literary Festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,1,MEDIUM,50.7,0.507,0.585,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,1,MEDIUM,59.7,0.597,0.703,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,1,HIGH,97.0,0.97,0.909,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,1,HIGH,91.1,0.911,0.768,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,1,HIGH,96.1,0.961,0.852,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,1,LOW,16.3,0.163,0.439,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,1,LOW,26.7,0.267,0.367,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,1,MEDIUM,42.2,0.422,0.565,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,1,LOW,31.6,0.316,0.484,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,1,MEDIUM,54.3,0.543,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,1,MEDIUM,60.6,0.606,0.598,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,1,MEDIUM,59.4,0.594,0.6,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,1,HIGH,100.0,1.0,0.817,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,1,MEDIUM,65.3,0.653,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,1,LOW,37.2,0.372,0.495,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,1,HIGH,74.2,0.742,0.591,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,1,HIGH,82.1,0.821,0.865,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,2,MEDIUM,64.2,0.642,0.683,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,2,HIGH,84.1,0.841,0.854,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,2,HIGH,86.7,0.867,0.712,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,2,MEDIUM,44.3,0.443,0.453,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,2,MEDIUM,58.2,0.582,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,2,HIGH,98.5,0.985,0.72,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,2,HIGH,96.8,0.968,0.747,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,2,HIGH,88.3,0.883,0.823,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,2,LOW,19.7,0.197,0.427,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,2,LOW,36.2,0.362,0.415,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,2,LOW,36.1,0.361,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,2,LOW,29.5,0.295,0.536,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,2,MEDIUM,50.1,0.501,0.602,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,2,MEDIUM,67.7,0.677,0.638,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,2,MEDIUM,57.4,0.574,0.614,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,2,HIGH,97.7,0.977,0.811,1,0,Peak pilgrimage season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,2,HIGH,78.2,0.782,0.665,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,2,MEDIUM,45.0,0.45,0.425,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,2,MEDIUM,68.8,0.688,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,2,HIGH,85.4,0.854,0.795,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,3,HIGH,74.4,0.744,0.775,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,3,HIGH,85.5,0.855,0.8,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,3,HIGH,87.8,0.878,0.796,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,3,MEDIUM,48.9,0.489,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,3,MEDIUM,68.7,0.687,0.629,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,3,HIGH,90.5,0.905,0.921,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,3,HIGH,89.2,0.892,0.807,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,3,HIGH,84.9,0.849,0.687,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,3,LOW,35.7,0.357,0.496,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,3,MEDIUM,47.4,0.474,0.719,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,3,MEDIUM,45.6,0.456,0.425,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,3,LOW,38.1,0.381,0.586,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,3,MEDIUM,62.9,0.629,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,3,MEDIUM,57.6,0.576,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,3,MEDIUM,59.5,0.595,0.599,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,3,HIGH,81.2,0.812,0.791,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,3,MEDIUM,63.9,0.639,0.67,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,3,MEDIUM,50.3,0.503,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,3,MEDIUM,67.6,0.676,0.591,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,3,HIGH,73.8,0.738,0.673,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,4,MEDIUM,66.4,0.664,0.595,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,4,HIGH,73.6,0.736,0.731,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,4,HIGH,70.3,0.703,0.763,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,4,MEDIUM,63.4,0.634,0.575,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,4,HIGH,100.0,1.0,0.91,1,0,April Season - New Year festivities,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,4,HIGH,71.9,0.719,0.647,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,4,HIGH,72.4,0.724,0.582,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,4,HIGH,75.0,0.75,0.658,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,4,HIGH,72.5,0.725,0.694,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,4,HIGH,75.0,0.75,0.663,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,4,MEDIUM,60.4,0.604,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,4,MEDIUM,60.8,0.608,0.731,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,4,MEDIUM,62.6,0.626,0.619,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,4,MEDIUM,53.1,0.531,0.642,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,4,MEDIUM,62.9,0.629,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,4,HIGH,70.6,0.706,0.742,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,4,MEDIUM,57.9,0.579,0.624,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,4,MEDIUM,47.7,0.477,0.551,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,4,MEDIUM,69.8,0.698,0.654,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,4,MEDIUM,60.5,0.605,0.572,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,5,MEDIUM,40.9,0.409,0.55,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,5,MEDIUM,45.0,0.45,0.36,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,5,MEDIUM,40.6,0.406,0.434,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,5,MEDIUM,49.8,0.498,0.647,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,5,MEDIUM,62.3,0.623,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,5,LOW,38.4,0.384,0.518,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,5,LOW,36.8,0.368,0.384,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,5,LOW,37.8,0.378,0.454,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,5,HIGH,92.5,0.925,0.819,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,5,HIGH,93.1,0.931,0.811,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,5,HIGH,90.4,0.904,0.787,1,0,Vesak Poya pilgrimage surge,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,5,HIGH,78.7,0.787,0.617,0,0,Vesak Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,5,MEDIUM,61.6,0.616,0.656,0,0,Vesak at the Golden Cave Temple,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,5,MEDIUM,57.1,0.571,0.74,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,5,MEDIUM,44.4,0.444,0.515,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,5,HIGH,72.3,0.723,0.526,0,0,Season closes at Vesak Poya,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,5,MEDIUM,47.5,0.475,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,5,MEDIUM,56.8,0.568,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,5,MEDIUM,57.1,0.571,0.755,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,5,MEDIUM,41.8,0.418,0.526,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,6,LOW,38.8,0.388,0.382,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,6,LOW,37.0,0.37,0.479,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,6,LOW,33.2,0.332,0.493,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,6,MEDIUM,57.1,0.571,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,6,MEDIUM,47.3,0.473,0.677,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,6,LOW,27.5,0.275,0.52,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,6,LOW,29.7,0.297,0.487,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,6,LOW,31.5,0.315,0.431,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,6,HIGH,98.4,0.984,0.745,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,6,HIGH,96.9,0.969,0.809,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,6,HIGH,100.0,1.0,0.883,1,0,Poson Poya - peak pilgrimage of the year,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,6,HIGH,84.1,0.841,0.735,0,0,Poson Poya pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,6,MEDIUM,51.0,0.51,0.686,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,6,HIGH,75.5,0.755,0.755,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,6,MEDIUM,44.1,0.441,0.552,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,6,LOW,5.8,0.058,0.444,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,6,LOW,37.9,0.379,0.474,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,6,MEDIUM,62.6,0.626,0.716,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,6,MEDIUM,59.6,0.596,0.659,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,6,LOW,36.7,0.367,0.447,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,7,MEDIUM,60.3,0.603,0.547,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,7,MEDIUM,61.8,0.618,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,7,MEDIUM,51.9,0.519,0.639,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,7,HIGH,100.0,1.0,0.841,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,7,MEDIUM,58.6,0.586,0.603,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,7,MEDIUM,40.9,0.409,0.391,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,7,MEDIUM,47.9,0.479,0.548,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,7,MEDIUM,46.2,0.462,0.478,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,7,HIGH,100.0,1.0,0.879,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,7,HIGH,100.0,1.0,0.881,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,7,HIGH,73.0,0.73,0.573,0,0,Esala season pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,7,MEDIUM,61.2,0.612,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,7,MEDIUM,53.9,0.539,0.606,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,7,HIGH,90.6,0.906,0.775,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,7,MEDIUM,56.6,0.566,0.566,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,7,LOW,5.5,0.055,0.369,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,7,MEDIUM,52.6,0.526,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,7,HIGH,82.0,0.82,0.95,1,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,7,MEDIUM,66.0,0.66,0.661,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,7,MEDIUM,46.6,0.466,0.692,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,8,MEDIUM,62.6,0.626,0.657,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,8,HIGH,73.3,0.733,0.644,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,8,MEDIUM,60.9,0.609,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,8,HIGH,100.0,1.0,0.926,1,0,Esala Perahera festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,8,MEDIUM,62.7,0.627,0.759,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,8,MEDIUM,44.3,0.443,0.416,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,8,MEDIUM,50.4,0.504,0.708,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,8,MEDIUM,46.4,0.464,0.556,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,8,HIGH,93.0,0.93,0.805,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,8,HIGH,92.8,0.928,0.857,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,8,HIGH,78.6,0.786,0.57,0,0,Esala season pilgrimage,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,8,MEDIUM,68.3,0.683,0.687,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,8,MEDIUM,57.7,0.577,0.715,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,8,HIGH,96.7,0.967,0.848,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,8,MEDIUM,59.7,0.597,0.55,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,8,LOW,7.1,0.071,0.462,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,8,MEDIUM,63.5,0.635,0.573,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,8,HIGH,76.0,0.76,0.713,0,0,Nallur Kandaswamy festival,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,8,MEDIUM,64.5,0.645,0.691,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,8,MEDIUM,53.0,0.53,0.652,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,9,MEDIUM,46.8,0.468,0.419,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,9,MEDIUM,49.7,0.497,0.622,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,9,MEDIUM,43.3,0.433,0.431,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,9,MEDIUM,54.5,0.545,0.621,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,9,MEDIUM,48.0,0.48,0.596,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,9,LOW,35.6,0.356,0.424,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,9,MEDIUM,43.4,0.434,0.462,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,9,LOW,38.2,0.382,0.361,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,9,HIGH,83.8,0.838,0.873,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,9,HIGH,72.1,0.721,0.714,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,9,LOW,36.1,0.361,0.535,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,9,LOW,36.2,0.362,0.428,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,9,MEDIUM,40.6,0.406,0.537,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,9,HIGH,87.6,0.876,0.789,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,9,MEDIUM,42.6,0.426,0.433,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,9,LOW,6.6,0.066,0.395,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,9,MEDIUM,42.5,0.425,0.404,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,9,MEDIUM,50.4,0.504,0.664,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,9,MEDIUM,65.2,0.652,0.59,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,9,MEDIUM,46.5,0.465,0.437,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,10,MEDIUM,45.6,0.456,0.49,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,10,MEDIUM,50.2,0.502,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,10,MEDIUM,55.5,0.555,0.68,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,10,MEDIUM,52.7,0.527,0.797,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,10,MEDIUM,44.4,0.444,0.418,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,10,MEDIUM,46.8,0.468,0.617,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,10,MEDIUM,49.0,0.49,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,10,MEDIUM,50.3,0.503,0.616,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,10,MEDIUM,62.5,0.625,0.678,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,10,MEDIUM,44.0,0.44,0.488,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,10,LOW,34.2,0.342,0.359,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,10,LOW,30.8,0.308,0.558,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,10,MEDIUM,41.8,0.418,0.427,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,10,LOW,22.7,0.227,0.47,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,10,MEDIUM,49.1,0.491,0.771,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,10,LOW,9.3,0.093,0.402,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,10,MEDIUM,42.2,0.422,0.406,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,10,MEDIUM,45.5,0.455,0.558,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,10,MEDIUM,61.7,0.617,0.663,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,10,MEDIUM,51.4,0.514,0.721,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,11,MEDIUM,64.0,0.64,0.618,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,11,MEDIUM,64.6,0.646,0.713,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,11,HIGH,75.1,0.751,0.761,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,11,MEDIUM,57.3,0.573,0.628,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,11,MEDIUM,54.3,0.543,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,11,HIGH,87.9,0.879,0.85,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,11,HIGH,84.6,0.846,0.89,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,11,HIGH,77.1,0.771,0.689,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,11,LOW,23.0,0.23,0.459,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,11,LOW,29.7,0.297,0.401,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,11,MEDIUM,47.5,0.475,0.626,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,11,LOW,39.3,0.393,0.527,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,11,MEDIUM,52.3,0.523,0.653,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,11,MEDIUM,48.1,0.481,0.695,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,11,MEDIUM,52.7,0.527,0.78,1,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,11,LOW,16.9,0.169,0.463,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,11,MEDIUM,50.7,0.507,0.745,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,11,LOW,39.9,0.399,0.467,0,0,,promote,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,11,HIGH,72.0,0.72,0.661,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,11,MEDIUM,63.8,0.638,0.662,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Sigiriya,2030,12,HIGH,79.1,0.791,0.588,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Ella,2030,12,HIGH,92.8,0.928,0.778,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Galle Fort,2030,12,HIGH,100.0,1.0,0.729,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Kandy,2030,12,MEDIUM,67.2,0.672,0.673,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Nuwara Eliya,2030,12,HIGH,70.5,0.705,0.646,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Mirissa,2030,12,HIGH,96.8,0.968,0.933,1,0,Whale watching peak season,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Unawatuna,2030,12,HIGH,87.8,0.878,0.688,0,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Bentota,2030,12,HIGH,93.6,0.936,0.79,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Arugam Bay,2030,12,LOW,15.5,0.155,0.493,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Trincomalee,2030,12,LOW,25.1,0.251,0.416,0,1,,avoid_travel,Ensemble_SARIMA_LSTM_SocialTrend
+Anuradhapura,2030,12,MEDIUM,48.5,0.485,0.702,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Polonnaruwa,2030,12,MEDIUM,48.6,0.486,0.644,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Dambulla,2030,12,MEDIUM,68.3,0.683,0.586,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Yala,2030,12,MEDIUM,62.0,0.62,0.608,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Pinnawala,2030,12,MEDIUM,61.1,0.611,0.665,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Adams Peak,2030,12,HIGH,100.0,1.0,0.841,1,0,Pilgrimage season opens (Unduvap Poya),redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Horton Plains,2030,12,MEDIUM,59.3,0.593,0.737,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Jaffna,2030,12,MEDIUM,48.6,0.486,0.717,0,0,,monitor,Ensemble_SARIMA_LSTM_SocialTrend
+Colombo,2030,12,HIGH,84.6,0.846,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend
+Negombo,2030,12,HIGH,87.5,0.875,0.847,1,0,,redirect,Ensemble_SARIMA_LSTM_SocialTrend

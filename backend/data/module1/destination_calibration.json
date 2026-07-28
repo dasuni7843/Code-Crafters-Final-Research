@@ -1,0 +1,142 @@
+{
+ "Sigiriya": {
+  "foreign_penetration": 0.2445666955435571,
+  "local_base_2025": 504231,
+  "rev_per_foreign": 6320.893383634782,
+  "rev_per_local": 96.88809771711774,
+  "basis": "official_ticket_count"
+ },
+ "Yala": {
+  "foreign_penetration": 0.2621232573132404,
+  "local_base_2025": 517119,
+  "rev_per_foreign": 6581.392566195262,
+  "rev_per_local": 140.24081497682351,
+  "basis": "official_ticket_count"
+ },
+ "Horton Plains": {
+  "foreign_penetration": 0.021729020603325544,
+  "local_base_2025": 335313,
+  "rev_per_foreign": 7274.109899555728,
+  "rev_per_local": 144.52144712552152,
+  "basis": "official_ticket_count"
+ },
+ "Polonnaruwa": {
+  "foreign_penetration": 0.04834150952265828,
+  "local_base_2025": 121083,
+  "rev_per_foreign": 7611.9929811156935,
+  "rev_per_local": 148.05257550605782,
+  "basis": "official_ticket_count"
+ },
+ "Anuradhapura": {
+  "foreign_penetration": 0.0718648427216805,
+  "local_base_2025": 143864,
+  "rev_per_foreign": 4995.264928162598,
+  "rev_per_local": 186.26032593282545,
+  "basis": "official_ticket_count"
+ },
+ "Mirissa": {
+  "foreign_penetration": 0.04504627018024552,
+  "local_base_2025": 33213,
+  "rev_per_foreign": 2190.0267787261005,
+  "rev_per_local": 97.98422304519315,
+  "basis": "official_ticket_count"
+ },
+ "Jaffna": {
+  "foreign_penetration": 0.006099403658634862,
+  "local_base_2025": 235381,
+  "rev_per_foreign": 1161.0885349573355,
+  "rev_per_local": 49.558596403278095,
+  "basis": "official_ticket_count"
+ },
+ "Trincomalee": {
+  "foreign_penetration": 0.012252531764579471,
+  "local_base_2025": 95836,
+  "rev_per_foreign": 5444.152046451082,
+  "rev_per_local": 136.11402865311575,
+  "basis": "official_ticket_count"
+ },
+ "Kandy": {
+  "foreign_penetration": 0.11105913449915385,
+  "local_base_2025": 562278,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ },
+ "Dambulla": {
+  "foreign_penetration": 0.0704653880248207,
+  "local_base_2025": 356757,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ },
+ "Galle Fort": {
+  "foreign_penetration": 0.1507056168909662,
+  "local_base_2025": 763003,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ },
+ "Nuwara Eliya": {
+  "foreign_penetration": 0.054562889838020795,
+  "local_base_2025": 276244,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ },
+ "Unawatuna": {
+  "foreign_penetration": 0.08611749536626644,
+  "local_base_2025": 436001,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ },
+ "Adams Peak": {
+  "foreign_penetration": 0.01818762994600693,
+  "local_base_2025": 92081,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ },
+ "Bentota": {
+  "foreign_penetration": 0.06458812152469981,
+  "local_base_2025": 327001,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ },
+ "Arugam Bay": {
+  "foreign_penetration": 0.040681561769683294,
+  "local_base_2025": 205965,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ },
+ "Colombo": {
+  "foreign_penetration": 0.06758549439922637,
+  "local_base_2025": 342176,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ },
+ "Negombo": {
+  "foreign_penetration": 0.08464743331452979,
+  "local_base_2025": 428559,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ },
+ "Ella": {
+  "foreign_penetration": 0.04615143041340962,
+  "local_base_2025": 233658,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ },
+ "Pinnawala": {
+  "foreign_penetration": 0.04082319284390362,
+  "local_base_2025": 206682,
+  "rev_per_foreign": 5500.0,
+  "rev_per_local": 300.0,
+  "basis": "sltda_district_telecom"
+ }
+}

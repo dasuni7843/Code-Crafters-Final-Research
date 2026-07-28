@@ -1,0 +1,42 @@
+{
+ "selected_model": "SARIMA",
+ "arima_order": [
+  0,
+  2,
+  3
+ ],
+ "arima_aic": 2162.4344174126372,
+ "arima_mape": 20.967355121796874,
+ "arima_mae": 35305.17948453484,
+ "arima_rmse": 41388.34446689377,
+ "sarima_order": [
+  0,
+  1,
+  2
+ ],
+ "sarima_seasonal_order": [
+  0,
+  1,
+  1,
+  12
+ ],
+ "sarima_aic": 1463.842925744923,
+ "sarima_mape": 6.783337711342437,
+ "sarima_mae": 13784.134950777574,
+ "sarima_rmse": 18597.082966065656,
+ "lr_foreign_r2": 0.6298196877657624,
+ "lr_foreign_slope": 3226.9394182568312,
+ "lr_local_r2": 0.7613973069730824,
+ "lr_local_slope": 93.15405515191878,
+ "excluded_years": [
+  2019,
+  2020,
+  2021,
+  2022
+ ],
+ "train_period": "2010-2018",
+ "train_months": 108,
+ "adf_original_p": 0.8610050936403337,
+ "adf_diff1_p": 0.0003837695535188702,
+ "adf_seasonal_p": 0.00013004370841042357
+}

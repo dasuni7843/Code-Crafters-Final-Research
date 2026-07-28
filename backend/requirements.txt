@@ -1,0 +1,15 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-dotenv==1.0.1
+pydantic==2.8.2
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+# Pinned: 3.1.x is required to unpickle module2/tss_regressor.pkl with its
+# learned base_score intact. 3.0.x silently resets it to 0.5 (drops the
+# intercept, R2 falls to 0.78); 3.3.x cannot read the file at all.
+xgboost==3.1.1
+lightgbm==4.5.0
+joblib==1.4.2
+Pillow==10.4.0
+python-multipart==0.0.9
