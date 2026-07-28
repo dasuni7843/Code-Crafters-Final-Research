@@ -1,0 +1,21 @@
+destination,type,climate_zone,district,latitude,longitude,beach_score,culture_score,nature_score,adventure_score,avg_stay_days,elevation_m,best_months,family_friendly,accessibility_score,avg_cost_level
+Sigiriya,cultural,dry_zone,Matale,7.957,80.76,0.1,1.0,0.7,0.8,7,171,"Jan,Feb,Mar,Apr,Aug,Sep",1,0.9,mid
+Ella,nature,highland,Badulla,6.867,81.047,0.1,0.5,1.0,0.9,7,1041,"Jan,Feb,Mar,Apr,Dec",1,0.8,low
+Galle Fort,cultural,coastal_south,Galle,6.026,80.217,0.6,1.0,0.3,0.3,7,4,"Nov,Dec,Jan,Feb,Mar,Apr",1,0.9,mid
+Kandy,cultural,highland,Kandy,7.291,80.634,0.0,1.0,0.6,0.4,7,500,"Jan,Feb,Mar,Apr,Aug,Sep",1,0.9,mid
+Nuwara Eliya,nature,highland,Nuwara Eliya,6.95,80.789,0.0,0.4,1.0,0.7,7,1868,"Mar,Apr,May,Jun,Jul,Aug",1,0.8,mid
+Mirissa,beach,coastal_south,Matara,5.947,80.459,1.0,0.2,0.5,0.6,7,3,"Nov,Dec,Jan,Feb,Mar",1,0.7,low
+Unawatuna,beach,coastal_south,Galle,6.01,80.249,1.0,0.3,0.4,0.5,7,2,"Nov,Dec,Jan,Feb,Mar,Apr",1,0.8,low
+Bentota,beach,coastal_west,Galle,6.425,80.001,1.0,0.2,0.4,0.5,4,2,"Nov,Dec,Jan,Feb,Mar,Apr",1,0.9,high
+Arugam Bay,beach,coastal_east,Ampara,6.84,81.836,1.0,0.1,0.5,0.9,10,2,"Apr,May,Jun,Jul,Aug,Sep,Oct",1,0.5,low
+Trincomalee,beach,coastal_east,Trincomalee,8.577,81.234,0.9,0.4,0.6,0.6,10,3,"Apr,May,Jun,Jul,Aug,Sep",1,0.6,low
+Anuradhapura,cultural,dry_zone,Anuradhapura,8.312,80.404,0.0,1.0,0.3,0.3,10,81,"Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep",1,0.7,low
+Polonnaruwa,cultural,dry_zone,Polonnaruwa,7.94,81.003,0.1,1.0,0.4,0.4,10,59,"Jan,Feb,Mar,Apr,May,Jun,Jul,Aug",1,0.6,low
+Dambulla,cultural,dry_zone,Matale,7.868,80.651,0.0,0.9,0.5,0.4,7,148,"Jan,Feb,Mar,Jul,Aug,Sep",1,0.8,low
+Yala,nature,dry_zone,Hambantota,6.37,81.521,0.2,0.1,1.0,0.9,7,10,"Jun,Jul,Aug,Sep,Oct",1,0.6,mid
+Pinnawala,nature,highland,Kegalle,7.3,80.35,0.0,0.3,0.8,0.4,4,116,"Jan,Feb,Mar,Apr,Aug,Sep,Dec",1,0.8,low
+Adams Peak,nature,highland,Ratnapura,6.809,80.499,0.0,0.5,1.0,1.0,7,2243,"Dec,Jan,Feb,Mar,Apr",1,0.5,low
+Horton Plains,nature,highland,Nuwara Eliya,6.809,80.804,0.0,0.2,1.0,0.9,7,2100,"Jan,Feb,Mar,Jul,Aug,Sep",1,0.5,low
+Jaffna,cultural,dry_zone,Jaffna,9.669,80.007,0.3,0.9,0.3,0.3,10,10,"May,Jun,Jul,Aug,Sep",1,0.6,low
+Colombo,cultural,coastal_west,Colombo,6.927,79.861,0.2,0.7,0.2,0.3,4,10,"Jan,Feb,Mar,Nov,Dec",1,1.0,high
+Negombo,beach,coastal_west,Gampaha,7.209,79.838,0.9,0.4,0.3,0.4,4,2,"Nov,Dec,Jan,Feb,Mar,Apr",1,0.9,mid
