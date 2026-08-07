@@ -1,5 +1,7 @@
 import axios, { AxiosError } from 'axios'
 import type {
+  CrowdRiskPrediction,
+  CrowdRiskSummary,
   DemandForecastResponse,
   DestinationInfo,
   DestinationProfile,
@@ -84,6 +86,20 @@ export const getMonthlyPlan = (destination: string, year: number) =>
     client.get(`/api/module2/monthly/${encodeURIComponent(destination)}/${year}`),
   )
 
+// ── Module 3 — Crowd Risk ──
+export const getModule3Predictions = (coreOnly = false) =>
+  run<CrowdRiskPrediction[]>(
+    client.get('/api/module3/predictions', { params: { core_only: coreOnly } }),
+  )
+
+export const getModule3Prediction = (destination: string) =>
+  run<CrowdRiskPrediction>(
+    client.get(`/api/module3/predictions/${encodeURIComponent(destination)}`),
+  )
+
+export const getModule3Summary = () =>
+  run<CrowdRiskSummary>(client.get('/api/module3/summary'))
+
 // ── Module 4 ──
 export const getModule4Destinations = () =>
   run<DestinationProfile[]>(client.get('/api/module4/destinations'))
@@ -109,6 +125,9 @@ export const getModule1Results = () =>
 
 export const getModule2Results = () =>
   run<ResultImage[]>(client.get('/api/results/module2'))
+
+export const getModule3Results = () =>
+  run<ResultImage[]>(client.get('/api/results/module3'))
 
 export const getModule4Results = () =>
   run<ResultImage[]>(client.get('/api/results/module4'))

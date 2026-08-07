@@ -9,8 +9,8 @@ from fastapi.staticfiles import StaticFiles
 from starlette.exceptions import HTTPException as StarletteHTTPException
 
 from app.config import APP_TITLE, APP_VERSION, CORS_ORIGINS, RESULTS_DIR
-from app.routers import integrated, module1, module2, module4, results
-from app.services import module1_service, module2_service, module4_service
+from app.routers import integrated, module1, module2, module3, module4, results
+from app.services import module1_service, module2_service, module3_service, module4_service
 
 logger = logging.getLogger("tourism_ai")
 logging.basicConfig(level=logging.INFO)
@@ -31,6 +31,7 @@ if RESULTS_DIR.exists():
 
 app.include_router(module1.router, prefix="/api/module1", tags=["Module 1"])
 app.include_router(module2.router, prefix="/api/module2", tags=["Module 2"])
+app.include_router(module3.router, prefix="/api/module3", tags=["Module 3"])
 app.include_router(module4.router, prefix="/api/module4", tags=["Module 4"])
 app.include_router(integrated.router, prefix="/api/integrated", tags=["Integrated"])
 app.include_router(results.router, prefix="/api/results", tags=["Results"])
@@ -41,6 +42,7 @@ def warm_models() -> None:
     """Load models into cache at startup so the first request is fast."""
     module1_service.models_loaded()
     module2_service.models_loaded()
+    module3_service.models_loaded()
     module4_service.models_loaded()
     logger.info("Models warmed up.")
 
@@ -50,6 +52,7 @@ def health() -> dict:
     loaded = (
         module1_service.models_loaded()
         and module2_service.models_loaded()
+        and module3_service.models_loaded()
         and module4_service.models_loaded()
     )
     return {"status": "ok", "models_loaded": loaded}

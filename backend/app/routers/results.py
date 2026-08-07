@@ -42,6 +42,10 @@ MODULE2_RESULTS = [
     ("m2_10_weather_vs_tss.png", "Weather vs TSS", "Correlation between weather factors and suitability"),
 ]
 
+MODULE3_RESULTS = [
+    ("model_evaluation_charts.png", "Model Evaluation", "MAPE comparison, ensemble forecast accuracy, Sigiriya walk-forward tracking, and the crowd risk band confusion matrix"),
+]
+
 MODULE4_RESULTS = [
     ("m4_01_feature_importance.png", "Feature Importance", "LightGBM gain-based feature importance for rating prediction"),
     ("m4_02_rating_prediction.png", "Rating Prediction", "Predicted vs actual ratings and confusion matrix"),
@@ -76,6 +80,11 @@ def module1_results() -> list[ResultImage]:
 @router.get("/module2", response_model=list[ResultImage])
 def module2_results() -> list[ResultImage]:
     return _build("module2", MODULE2_RESULTS)
+
+
+@router.get("/module3", response_model=list[ResultImage])
+def module3_results() -> list[ResultImage]:
+    return _build("module3", MODULE3_RESULTS)
 
 
 @router.get("/module4", response_model=list[ResultImage])
