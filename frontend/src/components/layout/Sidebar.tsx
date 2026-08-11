@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom'
-import { BarChart3, Home, Leaf, Link2, Target, TrendingUp, X } from 'lucide-react'
+import { BarChart3, Home, Leaf, Link2, Target, TrendingUp, Users, X } from 'lucide-react'
 
 interface SidebarProps {
   open: boolean
@@ -10,6 +10,7 @@ const navItems = [
   { to: '/', label: 'Overview', icon: Home, end: true },
   { to: '/module1', label: 'Demand forecast', icon: TrendingUp, end: false },
   { to: '/module2', label: 'Seasonal planning', icon: Leaf, end: false },
+  { to: '/module3', label: 'Crowd risk', icon: Users, end: false },
   { to: '/module4', label: 'Recommendations', icon: Target, end: false },
   { to: '/integrated', label: 'Full system', icon: Link2, end: false },
   { to: '/results', label: 'Model results', icon: BarChart3, end: false },

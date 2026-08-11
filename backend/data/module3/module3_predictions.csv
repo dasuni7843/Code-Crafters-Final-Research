@@ -1,0 +1,56 @@
+destination,last_known_month,predicted_month,latest_interest_index,predicted_dii,predicted_change_pct,crowd_risk_level,crowd_score_0_100,recommendation_action,model_used
+Independence Square,2026-07,2026-08,70.4,66.26635446704807,16.6,Medium,66.3,monitor,RF_DII_WalkForward_Ensemble
+Weligama Beach (Surf Spot),2026-07,2026-08,60.1,63.803614264513314,-4.8,Low,63.8,promote,RF_DII_WalkForward_Ensemble
+Lighthouse - Hambantota,2026-07,2026-08,53.7,61.899917112436725,12.6,Medium,61.9,monitor,RF_DII_WalkForward_Ensemble
+Ruwanwelisaya,2026-07,2026-08,67.2,59.40361094697823,-1.9,Low,59.4,promote,RF_DII_WalkForward_Ensemble
+Lighthouse - Galle,2026-07,2026-08,56.8,58.00593414021303,11.4,Medium,58.0,monitor,RF_DII_WalkForward_Ensemble
+Unawatuna Beach,2026-07,2026-08,47.2,55.691129534022345,18.6,High,55.7,redirect,RF_DII_WalkForward_Ensemble
+One Galle Face Mall,2026-07,2026-08,58.0,54.83919568321276,9.7,Medium,54.8,monitor,RF_DII_WalkForward_Ensemble
+Kandy Lake,2026-07,2026-08,47.0,54.16678499530794,15.7,Medium,54.2,monitor,RF_DII_WalkForward_Ensemble
+Lanka Ella - Waterfall,2026-07,2026-08,41.7,52.48179776265895,37.8,High,52.5,redirect,RF_DII_WalkForward_Ensemble
+Mirissa,2026-07,2026-08,36.3,50.867926914429106,33.3,High,50.9,redirect,RF_DII_WalkForward_Ensemble
+Delft Island (Neduntheevu),2026-07,2026-08,41.6,40.53205768332799,36.7,High,40.5,redirect,RF_DII_WalkForward_Ensemble
+Mihintale,2026-07,2026-08,46.5,39.959835967323684,-1.8,Low,40.0,promote,RF_DII_WalkForward_Ensemble
+Moon Plains,2026-07,2026-08,24.1,39.73556883480546,9.4,Medium,39.7,monitor,RF_DII_WalkForward_Ensemble
+Arugam Bay Beach,2026-07,2026-08,51.9,39.03441981725144,33.9,High,39.0,redirect,RF_DII_WalkForward_Ensemble
+Hiriketiya Beach,2026-07,2026-08,36.4,38.71412524894663,-25.0,Low,38.7,promote,RF_DII_WalkForward_Ensemble
+Gregory Lake,2026-07,2026-08,37.5,35.85391826451432,-13.2,Low,35.9,promote,RF_DII_WalkForward_Ensemble
+Nilaveli,2026-07,2026-08,43.9,34.765336584783434,20.1,High,34.8,redirect,RF_DII_WalkForward_Ensemble
+Pettah Market,2026-07,2026-08,38.6,33.49421084039333,36.0,High,33.5,redirect,RF_DII_WalkForward_Ensemble
+Dambulla Cave Temple,2026-07,2026-08,44.1,32.4207152631291,1.9,Medium,32.4,monitor,RF_DII_WalkForward_Ensemble
+Colombo City Center,2026-07,2026-08,33.6,31.05528097001174,2.6,Medium,31.1,monitor,RF_DII_WalkForward_Ensemble
+Jungle Beach,2026-07,2026-08,26.0,27.834585766121837,-12.4,Low,27.8,promote,RF_DII_WalkForward_Ensemble
+Sri Maha Bodhi,2026-07,2026-08,26.9,27.162933075053456,-13.8,Low,27.2,promote,RF_DII_WalkForward_Ensemble
+Arcade Independence Square,2026-07,2026-08,49.4,25.560352481374384,-57.4,Low,25.6,promote,RF_DII_WalkForward_Ensemble
+Ramboda Falls,2026-07,2026-08,32.5,25.523589987832796,27.9,High,25.5,redirect,RF_DII_WalkForward_Ensemble
+Children Park - Lakeround,2026-07,2026-08,14.1,22.92770703299948,-7.4,Low,22.9,promote,RF_DII_WalkForward_Ensemble
+Lotus Tower,2026-07,2026-08,21.8,22.562948346617137,13.5,Medium,22.6,monitor,RF_DII_WalkForward_Ensemble
+Guruge Park,2026-07,2026-08,18.3,22.431676396823033,0.0,Medium,22.4,monitor,RF_DII_WalkForward_Ensemble
+Horton Plains,2026-07,2026-08,13.4,22.050526849631908,75.6,High,22.1,redirect,RF_DII_WalkForward_Ensemble
+Sri Pada (Adam'S Peak),2026-07,2026-08,12.2,21.94336118179467,-2.8,Low,21.9,promote,RF_DII_WalkForward_Ensemble
+Sri Pada (Adam'S Peak) Trailhead,2026-07,2026-08,11.6,21.536615659910076,-5.1,Low,21.5,promote,RF_DII_WalkForward_Ensemble
+Colombo Fort Railway Station,2026-07,2026-08,12.8,21.215250812886733,23.1,High,21.2,redirect,RF_DII_WalkForward_Ensemble
+Richmond Castle,2026-07,2026-08,19.4,19.89516855228385,0.0,Medium,19.9,monitor,RF_DII_WalkForward_Ensemble
+Diyaluma Falls,2026-07,2026-08,19.7,19.75170479746277,164.0,High,19.8,redirect,RF_DII_WalkForward_Ensemble
+Colombo National Museum,2026-07,2026-08,43.5,19.339094680270243,-25.9,Low,19.3,promote,RF_DII_WalkForward_Ensemble
+Viharamahadevi Park,2026-07,2026-08,10.6,17.801442370514163,127.1,High,17.8,redirect,RF_DII_WalkForward_Ensemble
+Galle Lighthouse,2026-07,2026-08,14.4,16.016944198631773,100.4,High,16.0,redirect,RF_DII_WalkForward_Ensemble
+Gregory Park,2026-07,2026-08,16.5,15.786222871478662,-14.2,Low,15.8,promote,RF_DII_WalkForward_Ensemble
+Beddagana Wetland Park,2026-07,2026-08,22.0,14.680636405974235,-5.1,Low,14.7,promote,RF_DII_WalkForward_Ensemble
+Pidurangala Rock,2026-07,2026-08,23.5,14.107706284630554,0.0,Medium,14.1,monitor,RF_DII_WalkForward_Ensemble
+Kandy View Point,2026-07,2026-08,38.3,13.607032911697274,83.0,High,13.6,redirect,RF_DII_WalkForward_Ensemble
+Blackpool,2026-07,2026-08,11.3,13.29914168453894,173.8,High,13.3,redirect,RF_DII_WalkForward_Ensemble
+Ambewela Farm,2026-07,2026-08,11.0,12.14552335820175,-4.9,Low,12.1,promote,RF_DII_WalkForward_Ensemble
+Gartmore Falls,2026-07,2026-08,5.8,11.973770292860701,22.8,High,12.0,redirect,RF_DII_WalkForward_Ensemble
+Talalla Beach,2026-07,2026-08,4.9,11.459941637745821,12.7,Medium,11.5,monitor,RF_DII_WalkForward_Ensemble
+Hambantota Beach,2026-07,2026-08,8.1,11.10801005735525,0.0,Medium,11.1,monitor,RF_DII_WalkForward_Ensemble
+Koggala Beach,2026-07,2026-08,8.6,10.883113604189225,0.0,Medium,10.9,monitor,RF_DII_WalkForward_Ensemble
+Mayan Water Park,2026-07,2026-08,5.0,7.827775909430199,0.0,Medium,7.8,monitor,RF_DII_WalkForward_Ensemble
+Parakrama Samudraya,2026-07,2026-08,4.0,7.827775909430199,0.0,Medium,7.8,monitor,RF_DII_WalkForward_Ensemble
+Diyatha Uyana,2026-07,2026-08,8.5,7.832744282845932,26.7,High,7.8,redirect,RF_DII_WalkForward_Ensemble
+Hambantota Birds Park,2026-07,2026-08,5.3,7.261606736511943,0.0,Medium,7.3,monitor,RF_DII_WalkForward_Ensemble
+Gampaha Botanical Garden,2026-07,2026-08,24.1,7.224610410783524,-24.8,Low,7.2,promote,RF_DII_WalkForward_Ensemble
+Sigiriya,2026-07,2026-08,8.0,7.116337003818703,1006.4,High,7.1,redirect,RF_DII_WalkForward_Ensemble
+Thuparamaya,2026-07,2026-08,8.6,6.587489777502353,0.0,Medium,6.6,monitor,RF_DII_WalkForward_Ensemble
+Bambarakanda,2026-07,2026-08,4.8,6.198569799728233,70.1,High,6.2,redirect,RF_DII_WalkForward_Ensemble
+Yala,2026-07,2026-08,1.7,5.256176204080658,216.9,High,5.3,redirect,RF_DII_WalkForward_Ensemble

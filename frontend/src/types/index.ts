@@ -219,6 +219,31 @@ export interface Module3Output {
   recommendation_action: string
 }
 
+// ── Module 3 — Crowd Risk (real, trained on Google Trends + Wikipedia signal) ──
+export interface CrowdRiskPrediction {
+  destination: string
+  is_core_destination: boolean
+  last_known_month: string
+  predicted_month: string
+  latest_interest_index: number
+  predicted_interest_index: number
+  predicted_change_pct: number
+  crowd_risk_level: 'Low' | 'Medium' | 'High'
+  crowd_score_0_100: number
+  recommendation_action: string
+  model_used: string
+}
+
+export interface CrowdRiskSummary {
+  total_tracked: number
+  core_destination_count: number
+  low_count: number
+  medium_count: number
+  high_count: number
+  naive_mape_pct: number
+  ensemble_mape_pct: number
+}
+
 export interface IntegratedResponse {
   travel_month: number
   month_name: string
