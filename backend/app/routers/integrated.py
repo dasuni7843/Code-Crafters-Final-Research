@@ -52,8 +52,8 @@ class IntegratedResponse(BaseModel):
     module4: list[DestinationRecommendation]  # Final recommendations (this system)
 
 
-def _mock_row(df: pd.DataFrame, destination: str, year: int, month: int) -> pd.Series | None:
-    """Look up a mock-output row, falling back to any year for that month."""
+def _lookup_row(df: pd.DataFrame, destination: str, year: int, month: int) -> pd.Series | None:
+    """Look up a module-output row, falling back to any year for that month."""
     match = df[
         (df["destination"] == destination)
         & (df["year"] == year)
@@ -69,6 +69,10 @@ def integrated_recommend(request: RecommendationRequest) -> IntegratedResponse:
     month = request.travel_month
     year = request.travel_year
     assets = m2._load_assets()
+    # Module 1's forecast comes from Module 4's assets, which read it from
+    # Module 1's own data directory. Module 2 does not carry another module's
+    # data, so it is not sourced from there.
+    m1_forecast = m4._load_assets()["m1_forecast"]
     destinations = sorted(assets["seasonal"]["destination"].unique())
 
     module1: list[Module1Output] = []
@@ -77,7 +81,7 @@ def integrated_recommend(request: RecommendationRequest) -> IntegratedResponse:
 
     for dest in destinations:
         # Module 1 — demand forecast, read from its real trained output
-        m1_row = _mock_row(assets["mock_m1"], dest, year, month)
+        m1_row = _lookup_row(m1_forecast, dest, year, month)
         module1.append(Module1Output(
             destination=dest,
             predicted_arrivals=int(m1_row["predicted_tourist_arrivals"]) if m1_row is not None else 0,
@@ -99,7 +103,7 @@ def integrated_recommend(request: RecommendationRequest) -> IntegratedResponse:
         ))
 
         # Module 3 — crowd risk, read from its own mock output
-        m3_row = _mock_row(assets["mock_m3"], dest, year, month)
+        m3_row = _lookup_row(assets["mock_m3"], dest, year, month)
         module3.append(Module3Output(
             destination=dest,
             crowd_risk_level=str(m3_row["crowd_risk_level"]) if m3_row is not None else "MEDIUM",

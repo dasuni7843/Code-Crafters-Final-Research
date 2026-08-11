@@ -72,9 +72,10 @@ def _load_assets() -> dict:
     feature_names = joblib.load(M2_MODELS / "feature_names.pkl")
 
     seasonal = pd.read_csv(DATA_DIR / "module2" / "module2_seasonal_travel_dataset.csv")
-    # Module 1 is now the real trained model. Its production forecast is a
-    # superset of the old mock schema, so this key is unchanged.
-    mock_m1 = pd.read_csv(DATA_DIR / "module2" / "module1_output.csv")
+    # Module 1's forecast is deliberately not loaded here. Module 2 scores on
+    # weather, seasonality, events, holidays and accessibility only; demand is
+    # Module 1's output and is read from Module 1's own data directory by the
+    # consumers that actually need it.
     mock_m3 = pd.read_csv(DATA_DIR / "module2" / "mock_module3_output.csv")
     attrs = pd.read_csv(DATA_DIR / "raw" / "destination_attributes.csv")
 
@@ -88,7 +89,6 @@ def _load_assets() -> dict:
         "type_encoder": type_encoder,
         "feature_names": feature_names,
         "seasonal": seasonal,
-        "mock_m1": mock_m1,
         "mock_m3": mock_m3,
         "attrs": attrs,
     }

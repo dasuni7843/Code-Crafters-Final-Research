@@ -284,7 +284,9 @@ Module 1 is trained and calibrated entirely on real, official Sri Lankan tourism
 ## Notes on Module 3
 
 Module 1 (Demand Forecasting) is now implemented and trained on real SLTDA data; its production forecast
-in `backend/data/module1/module1_output.csv` feeds Modules 2 and 4 directly. **Only Module 3 (Crowd Risk)
+lives in one place, `backend/data/module1/module1_output.csv`, and is read from there by Module 4 and the
+integrated pipeline. Module 2 does not consume it - Module 2 scores seasonal suitability on weather,
+seasonality, events, holidays and accessibility only. **Only Module 3 (Crowd Risk)
 remains mocked** - it is built by another team member and is consumed via
 `backend/data/**/mock_module3_output.csv`, which covers 2024 to 2030 so crowd lookups resolve for every
 selectable forecast year. When Module 3 integration is complete, replace its mock CSV with the real output
