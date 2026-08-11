@@ -77,9 +77,10 @@ def _load_assets() -> dict:
 
     features = pd.read_csv(DATA_DIR / "module4" / "destination_features.csv")
     sim_matrix, feat_matrix = _build_similarity(features)
-    # Module 1 is now the real trained model. Its production forecast is a
-    # superset of the old mock schema, so this key is unchanged.
-    mock_m1 = pd.read_csv(DATA_DIR / "module4" / "module1_output.csv")
+    # Module 1's real trained forecast, read from Module 1's own data directory.
+    # There is one copy of this file rather than one per consuming module, so a
+    # regenerated forecast reaches every consumer at once.
+    m1_forecast = pd.read_csv(DATA_DIR / "module1" / "module1_output.csv")
     mock_m3 = pd.read_csv(DATA_DIR / "module4" / "mock_module3_output.csv")
     attrs = pd.read_csv(DATA_DIR / "raw" / "destination_attributes.csv")
     seasonal = pd.read_csv(DATA_DIR / "module2" / "module2_seasonal_travel_dataset.csv")
@@ -120,7 +121,7 @@ def _load_assets() -> dict:
         "encoders": encoders,
         "feature_names": feature_names,
         "features": features.set_index("destination"),
-        "mock_m1": mock_m1,
+        "m1_forecast": m1_forecast,
         "mock_m3": mock_m3,
         "component_baseline": component_baseline,
         "attrs": attrs.set_index("destination"),
@@ -174,13 +175,13 @@ def _agg_for(
     )
 
 
-def _mock_m1(assets: dict, destination: str, year: int, month: int) -> tuple[int, int]:
+def _m1_forecast(assets: dict, destination: str, year: int, month: int) -> tuple[int, int]:
     """Predicted arrivals and revenue from Module 1's real forecast.
 
     Filters by year first; falls back to any year for that destination and month
     so a lookup never fails even if the requested year is outside the forecast.
     """
-    m1 = assets["mock_m1"]
+    m1 = assets["m1_forecast"]
     row = m1[(m1["destination"] == destination) & (m1["year"] == year) & (m1["month"] == month)]
     if row.empty:
         row = m1[(m1["destination"] == destination) & (m1["month"] == month)]
@@ -313,7 +314,7 @@ def get_recommendations(req: RecommendationRequest) -> list[DestinationRecommend
         crowd_risk, crowd_score, is_off_season, crowd_event_note = _mock_m3(
             assets, destination, req.travel_year, req.travel_month
         )
-        arrivals, revenue = _mock_m1(assets, destination, req.travel_year, req.travel_month)
+        arrivals, revenue = _m1_forecast(assets, destination, req.travel_year, req.travel_month)
 
         rating = _predict_rating(
             assets, destination, dest_type, cost_level, crowd, req,
